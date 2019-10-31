@@ -1,0 +1,57 @@
+@font-face {
+    font-family: "Flaticon";
+    src:  url('Flaticon.woff') format('woff');
+}
+
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-style: normal
+}
+
+.flaticon-quotations-button:before {
+    content: "\f100"
+}
+
+.flaticon-download-1:before {
+    content: "\f101"
+}
+
+.flaticon-download:before {
+    content: "\f102"
+}
+
+.flaticon-bag:before {
+    content: "\f103"
+}
+
+.flaticon-heart-shape-outline:before {
+    content: "\f104"
+}
+
+.flaticon-left-arrow:before {
+    content: "\f105"
+}
+
+.flaticon-right-arrow:before {
+    content: "\f106"
+}
+
+.flaticon-filter:before {
+    content: "\f107"
+}
+
+.flaticon-login:before {
+    content: "\f108"
+}
+
+.flaticon-search:before {
+    content: "\f109"
+}
+
+.flaticon-user:before {
+    content: "\f10a"
+}

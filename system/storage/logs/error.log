@@ -1,0 +1,149 @@
+2019-08-07 13:23:32 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\my_shop\upload\system\library\mail\mail.php on line 77
+2019-08-07 14:35:29 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 103
+2019-08-07 14:36:12 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 103
+2019-08-07 14:37:54 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 98
+2019-08-07 14:38:19 - PHP Notice:  Undefined index: href in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 98
+2019-08-07 14:38:46 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 96
+2019-08-07 14:39:15 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 91
+2019-08-07 14:40:04 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 93
+2019-08-07 14:41:40 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 93
+2019-08-07 14:59:25 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 89
+2019-08-07 14:59:25 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\system\library\template\Twig\Environment.php(403) : eval()'d code on line 176
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:06:25 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 200
+2019-08-07 16:10:52 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\category.php on line 201
+2019-08-07 16:28:11 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.catalog.language.1565198891): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:11 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.currency.1565198891): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:13 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.catalog.language.1565198893): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:13 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.currency.1565198893): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:13 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:13 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:13 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:13 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:14 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.catalog.language.1565198894): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:14 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:14 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.currency.1565198894): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:14 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:14 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.catalog.language.1565198894): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:14 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-07 16:28:14 - PHP Warning:  fopen(C:/xampp/htdocs/my_shop/upload/system/storage/cache/cache.currency.1565198894): failed to open stream: Permission denied in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 49
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 51
+2019-08-07 16:28:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 53
+2019-08-07 16:28:14 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 55
+2019-08-07 16:28:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 57
+2019-08-07 16:28:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in C:\xampp\htdocs\my_shop\upload\system\library\cache\file.php on line 59
+2019-08-08 3:28:52 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 87
+2019-08-08 3:29:15 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 87
+2019-08-08 8:31:49 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 89
+2019-08-08 8:33:57 - PHP Notice:  Undefined variable: category in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 90
+2019-08-08 8:33:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\my_shop\upload\catalog\controller\common\header.php on line 90
+2019-08-08 14:00:39 - PHP Notice:  Undefined variable: product_info in C:\xampp\htdocs\my_shop\upload\catalog\controller\product\product.php on line 11

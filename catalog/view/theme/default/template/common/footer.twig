@@ -1,0 +1,95 @@
+<style>
+  .container{
+    padding-left:0px!important;
+    padding-right:0px!important;
+  }
+  #footer_copyright{
+      background: rgb(137,209,0)!important;
+      padding-top: 30px!important;
+      padding-bottom: 30px!important;
+      text-align: center!important;
+      color:white!important;
+      width:100%;
+  }
+  #footer_copyright p{
+      color: #fff!important;
+    font-size: 14px!important;
+  }
+  footer{
+    background-color:white!important;
+    border-top:none!important;
+    margin-top:200px;
+  }
+  footer h2{
+    color:black;
+    padding-bottom:10px;
+  }
+  footer a{
+    font-size:16px;
+    color:black;
+  }
+  footer  li{
+    padding-bottom:20px; 
+  }
+  footer .row{
+    padding-bottom:30px;
+  }
+  footer p{
+    color: #666;
+    font-size:20px;
+  }
+  footer img{
+    padding-bottom:50px;
+  }
+  }
+@media (max-width: 765px){
+
+.logo1{
+  margin-left:10%!important;
+}
+}
+</style>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5 col-sm-5 col-xs-10 logo1" style="margin-left:10%">
+        <img src="image/catalog/demo/slider/Logo@2x.png"  class="img-responsive" style="width:600px"/>
+        <p>
+          Established by Mr Tan Ah Lee in 1976, Merry Horticulture hold more</p>
+          <p>than 35 years of experience in the field of supplying tropical outdoor</p>
+          <p>and indoor plants. Ever the years, Merry Horticulture has gained a solid</p>
+          <p>reputation in delivering quality plants and expanded its market locally</p>
+          <p>and globally.
+        </p>
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-5 shop">
+        <h2>Shop</h2>
+        <ul class="list-unstyled">
+          {% for category in categories %}
+            <li><a href="{{ category.href }}">{{ category.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-md-2 col-sm-2 col-xs-5">
+        <h2>Account</h2>
+        <ul class="list-unstyled">
+          <li><a href="{{ order }}">{{ text_order }}</a></li>
+          <li><a href="{{ account }}">{{ text_account }}</a></li>
+          <li><a href="{{ wishlist }}">Shipping & Returns</a></li>
+          <li><a href="{{ informations[3].href }}">{{ informations[3].title }}</a></li>
+          <li><a href="{{ account }}">FaQs</a></li>
+          <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+          
+        </ul>
+      </div>
+    </div>
+    <div id="footer_copyright">
+    <p >{{ powered }}</p>
+    </div>
+  </div>
+</footer>
+{% for script in scripts %}
+  <script src="{{ script }}" type="text/javascript"></script>
+{% endfor %}
+
+</body></html>

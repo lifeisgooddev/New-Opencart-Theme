@@ -1,0 +1,143 @@
+ {{ header }}
+ <div id="checkout-cart" class="container">
+  
+   
+  
+   <div class="row">{{ column_left }}
+     {% if column_left and column_right %}
+     {% set class = 'col-sm-6' %}
+     {% elseif column_left or column_right %}
+     {% set class = 'col-sm-9' %}
+     {% else %}
+     {% set class = 'col-sm-12' %}
+     {% endif %}
+     <div id="content" class="{{ class }}">{{ content_top }}
+       <h1>Checkout Cart</h1>
+       <div class="col-md-8 col-md-offset-2">
+       <div class="col-md-8">
+       <form action="{{ action }}" method="post" enctype="multipart/form-data">
+         <div class="table-responsive">
+           <table class="table table-bordered">
+             
+             <tbody>
+             
+             {% for product in products %}
+             <tr>
+               <td class="text-center">{% if product.thumb %} <a href="{{ product.href }}"><img src="{{ product.thumb }}" alt="{{ product.name }}" title="{{ product.name }}" class="img-thumbnail" /></a> {% endif %}</td>
+               <td class="text-left"><a href="{{ product.href }}">{{ product.name }}</a> {% if not product.stock %} <span class="text-danger">***</span> {% endif %}
+                 {% if product.option %}
+                 {% for option in product.option %} <br />
+                 <small>{{ option.name }}: {{ option.value }}</small> {% endfor %}
+                 {% endif %}
+                 {% if product.reward %} <br />
+                 <small>{{ product.reward }}</small> {% endif %}
+                 {% if product.recurring %} <br />
+                 <span class="label label-info">{{ text_recurring_item }}</span> <small>{{ product.recurring }}</small> {% endif %}</td>
+               
+               <td class="text-left"><div class="input-group btn-block" style="max-width: 200px;">
+                   <input type="text" name="quantity[{{ product.cart_id }}]" value="{{ product.quantity }}" size="1" class="form-control" />
+                   <span class="input-group-btn">
+                   
+                   <button type="button" data-toggle="tooltip" title="{{ button_remove }}" class="btn btn-danger" onclick="cart.remove('{{ product.cart_id }}');"><i class="fa fa-times-circle"></i></button>
+                   </span></div></td>
+               <td class="text-left">{{ product.model }}</td>
+              
+             </tr>
+             {% endfor %}
+             {% for voucher in vouchers %}
+             <tr>
+               <td></td>
+               <td class="text-left">{{ voucher.description }}</td>
+               <td class="text-left"></td>
+               <td class="text-left"><div class="input-group btn-block" style="max-width: 200px;">
+                   <input type="text" name="" value="1" size="1" disabled="disabled" class="form-control" />
+                   <span class="input-group-btn">
+                   <button type="button" data-toggle="tooltip" title="{{ button_remove }}" class="btn btn-danger" onclick="voucher.remove('{{ voucher.key }}');"><i class="fa fa-times-circle"></i></button>
+                   </span></div></td>
+               <td class="text-right">{{ voucher.amount }}</td>
+               <td class="text-right">{{ voucher.amount }}</td>
+             </tr>
+             {% endfor %}
+               </tbody>
+             
+           </table>
+           <div class="btn_group">
+           <div class="pull-left"><a href="{{ continue }}" class="btn btn-primary">{{ button_shopping }}</a></div>
+           <div class="pull-right"><button type="submit" data-toggle="tooltip" title="{{ button_update }}" class="btn btn-primary">Update Cart</button></div>
+           </div>
+         </div>
+       </form>
+       </div>
+       
+         <div class="col-md-4">
+           <table class="table table-bordered">
+             {% for total in totals %}
+             <tr>
+               <td class="text-right"><strong>{{ total.title }}:</strong></td>
+               <td class="text-right">{{ total.text }}</td>
+             </tr>
+             {% endfor %}
+           </table>
+           <div class="pull-right"><a href="{{ checkout }}" class="btn btn-primary">{{ button_checkout }}</a></div>
+         </div>
+       </div>
+       {{ content_bottom }}</div>
+     {{ column_right }}</div>
+ </div>
+ 
+ <style>
+ .container h1{
+   text-align:center;
+  }
+   .container{
+    margin-top:80px;
+   }
+   .table-bordered>tbody>tr>td{
+   border:0;
+   }
+   .img-thumbnail{
+    width:146px;
+    border:0;
+   }
+   .table-bordered>tbody>tr>td {
+     
+     font-size: 25px;
+ }
+   .btn.btn-primary{
+    color: #ffffff;
+     
+     background-color: rgb(137,209,0);
+     background-image: none;
+     background-repeat: repeat-x;
+     border:0;
+     border-radius:0;
+     text-shadow:none;
+    font-size:16px;
+       width: 220px;
+     height: 50px;
+   }
+   .pull-right{
+       padding-bottom: 20px;
+       padding-top: 20px;
+   }
+   .pull-left{
+       padding-bottom: 20px;
+       padding-top: 20px;
+   }
+   .table-responsive{
+     border: 1px solid #ddd;
+   }
+   .table.table-bordered
+   {
+    border:none;
+    border-bottom: 1px solid #ddd;
+   }
+   .btn_group{
+    margin-left:5%;
+    margin-right:5%;
+   }
+   .table{
+    margin-bottom:0px;
+   }
+ </style>
+ {{ footer }} 

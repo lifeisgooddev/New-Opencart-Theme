@@ -1,0 +1,150 @@
+.row {
+     margin-left: -10px;
+     margin-right: -10px;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-25, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+     padding-left: 10px;
+     padding-right: 10px;
+}
+
+#main .camera_slider {
+     margin-top: 20px !important;
+}
+
+.footer .container > .row > div:before, 
+.footer .advanced-grid .container > div > .row > div:before {
+     margin-left: -40px;
+}
+
+#top #cart_block .dropdown-menu {
+     width: 500px;
+}
+
+     .mini-cart-info table {
+     	margin-bottom: 20px;
+     }
+     
+          .mini-cart-info .image {
+          	padding: 20px 20px 0px 20px;
+          }
+          
+          .mini-cart-info .name {
+          	padding: 20px 10px 0px 10px;
+          }
+          .mini-cart-info .quantity {
+          	padding: 20px 10px 0px 10px;
+          }
+          
+          .mini-cart-info td.total {
+          	padding: 20px 10px 0px 10px;
+          }
+          
+          .mini-cart-info .remove {
+          	padding: 20px 20px 0px 10px;
+          }
+          
+          .mini-cart-total {
+          	padding: 20px 20px 4px 20px;
+          }
+          
+               .mini-cart-total td:last-child {
+               	width: 110px;
+               }
+          
+          #cart_block .checkout {
+               padding: 0px 20px 20px 20px;
+          }
+          
+     .center-column .tab-content {
+          padding-top: 30px;
+          padding-bottom: 30px;
+     }
+     
+.product-grid .product:before {
+     right: -11px;
+}
+
+.product-grid .product:hover:before {
+     left: -10px;
+     right: -10px;
+}
+
+.rtl .product-grid .product:before {
+     left: -11px;
+     right: auto;
+}
+
+     .rtl .product-grid .product:hover:before {
+          left: -10px;
+          right: -10px;
+     }
+
+.list-box li {
+     padding-left: 20px;
+     padding-right: 20px;
+}
+
+.list-box {
+     padding: 5px 0px;
+}
+
+.col-sm-3 .box-no-advanced.box .box-content, .col-sm-4 .box-no-advanced.box .box-content, .col-md-3 .box-no-advanced.box .box-content, .col-md-4 .box-no-advanced.box .box-content {
+     padding: 17px 20px;
+}
+
+.product-info .product-image,
+.product-info .thumbnails li img, 
+.product-info .thumbnails-carousel img {
+     border: none;
+}
+
+.product-list > div {
+     margin-left: -10px;
+     margin-right: -10px;
+     padding-left: 18px;
+     padding-right: 18px;
+}
+
+#main .mfilter-price-inputs input {
+     width: 30px;
+}
+
+.box-with-categories .box-heading,
+.box-category ul li > a {
+     padding-left: 25px;
+     padding-right: 25px;
+}
+
+     .box-category ul li li a {
+          padding-left: 45px;
+     }
+     
+     .box-category ul li .head {
+          right: 7px;
+     }
+     
+.blog-article #main .post .post-media {
+     margin-bottom: 29px;
+}
+
+.blog-article #main .post .post-content {
+     padding-bottom: 22px;
+}
+
+.blog-article #main .post .meta {
+    padding: 22px 0px 18px 0px;
+}
+
+#main .posts,
+#main .post {
+     padding-top: 0px;
+}
+
+#main .blog-module.category-box-type-2 {
+     padding-top: 50px !important;
+}
+
+#main .post .box {
+     padding-top: 12px !important;
+}

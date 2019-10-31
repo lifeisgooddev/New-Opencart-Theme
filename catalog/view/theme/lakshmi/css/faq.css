@@ -1,0 +1,86 @@
+/* FAQ */
+
+.faq-area {
+     margin-bottom: 21px;
+}
+
+.faq-area .faq-section {
+     margin-bottom: -1px;
+}
+
+.faq-area .faq-section .section-title {
+     text-align: center;
+     padding-top: 45px;
+}
+
+     .module-faq.body-white .standard-body .full-width .center-column.content-with-background .faq-area .faq-section:first-child .section-title {
+          padding-top: 0px;
+     }
+
+.faq-area .faq-section .panel-faq {
+     margin-bottom: 0px !important;
+}
+
+.faq-area .faq-section .panel-faq .panel-heading .panel-title {
+     position: relative;
+}
+
+.faq-area .faq-section .panel-faq .panel-heading .panel-title > a:after {
+    content: "\f068";
+    font-family: fontawesome;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 13px;
+}
+
+.faq-area .faq-section .panel-faq .panel-heading .panel-title > a.collapsed:after {
+    content: "\f067";
+}
+
+.faq-area .faq-section .panel-faq .panel-body p {
+     padding: 0px;
+     margin: 0px;
+}
+
+.faq-area .faq-section .panel-faq .panel-body > * {
+     padding-top: 5px;
+}
+
+body.module-faq .center-column > *:first-child {
+     margin-top: -1px;
+}
+
+.border-width-1.module-faq .standard-body .full-width .center-column.content-with-background {
+     margin-top: 0px !important;
+}
+     
+.body-white-type-2.border-width-1.module-faq .standard-body .full-width .center-column.content-with-background {
+     margin-top: 50px;
+}
+     
+.body-type-12.border-width-1.module-faq .standard-body .full-width .center-column.content-with-background {
+     margin-top: 50px;
+}
+     
+.module-faq .standard-body .full-width .center-column.content-with-background {
+     padding-top: 0px !important;
+     padding-bottom: 0px !important;
+     margin-bottom: 0px !important;
+}
+
+     .module-faq .standard-body .full-width .center-column.content-with-background .faq-area {
+          margin-bottom: 0px;
+     }
+
+.module-faq .standard-body .full-width .center-column .faq-section:first-child .panel:first-child .panel-heading {
+     border-top: none;
+}
+
+.module-faq .standard-body .full-width .center-column .faq-section:last-child .panel:last-child {
+     border-bottom: none;
+}
+     
+     .body-white.module-faq .standard-body .full-width .center-column .faq-section:last-child .panel:last-child {
+         border-bottom: 1px solid #e5e5e5;
+     }

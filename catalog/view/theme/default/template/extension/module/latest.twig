@@ -1,0 +1,123 @@
+<div class="row latest_row">
+
+<div class="row category_big col-lg-5 col-md-5 col-sm5 hidden-xs" style="display:inline-block;position:relative">
+  <div class="product-layout" style="width:100%;float:left;">
+       <div class="image"><img src="image/catalog/demo/slider/daylight-environment-garden-1055408 (1).jpg"  class="img-responsive latest_img" /></div>
+  </div>
+  
+</div>
+<div class="row category_thumb col-lg-5 col-md-5 col-sm-5 col-xs-12" style="display:inline-block;position:relative">
+  <h3>Indoor Plants</h3> 
+  {% for product in products %}
+  <div class="product-layout1 col-lg-5 col-md-5 col-sm-5 col-xs-12">
+    
+      <div class="image"><img src="{{ product.thumb }}" alt="{{ product.name }}" title="{{ product.name }}" class="img-responsive" /></div>
+      <div class="caption latest">
+        <p>{{ product.category_id}}</p>
+        <h4>{{ product.name }}</h4>
+        <span>{{product.model}}</span>
+      </div>
+      
+    
+  </div>
+  {% endfor %} </div>
+  </div>
+<div class="row logo-menu" style="background-color:rgb(242,237,229);">
+  <div class="logo 1first col-md-3 col-sm-3 col-xs-3">
+    <img src="image/catalog/demo/slider/001-air-freight@2x.png"  class="img-responsive " />
+    <p class="hidden-sm hidden-xs">World Wide Shipping</p>
+  </div>
+  <div class="logo 2second col-md-4 col-sm-3 col-xs-3">
+    <img src="image/catalog/demo/slider/002-locked@2x.png"  class="img-responsive " style="width:70px!important;"/>
+    <p class="hidden-sm hidden-xs">100% safe & Secure checkout</p>
+  </div>
+  <div class="logo 3third col-md-3 col-sm-3 col-xs-3">
+    <img src="image/catalog/demo/slider/003-plant@2x.png"  class="img-responsive" />
+    <p class="hidden-sm hidden-xs">Professional Nurtured Plant</p>
+  </div>
+</div>
+</div>
+<style>
+.latest>p{
+  color:rgb(137,209,0);
+}
+.latest>span{
+  color:rgb(0,0,0);
+  font-weight:bold;
+}
+.category_big{
+  margin-left:12%;
+}
+.category_thumb{
+  
+  margin-left:2%!important;
+}
+.category_thumb h3{
+  
+  margin-left:20px;
+}
+.latest_row
+{
+      margin-top: 50px;
+      margin-bottom: 50px;
+}
+.product-layout1
+{
+        margin-left: -20px;
+      
+      display:inline-block;
+      padding-left:12px!important;
+}
+.product-layout1 img{
+  width:185px;
+  height:150px;
+}
+.product-layout1 .image{
+  width:185px!important;
+  display:inline-block;
+}
+.caption.latest{
+      width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 9px;
+    margin-left: -15px;
+    
+    line-height: 47px;
+}
+.caption.latest p{
+  font-size:14px;
+}
+.caption.latest h4{
+  font-size:18px;
+  font-weight:bold!important;
+}
+.caption.latest span{
+  font-size:14px;
+}
+.latest_img{
+  height: 670px;
+}
+.logo-menu{
+  height:150px;
+}
+.logo{
+  margin-top:35px;
+  display:inline-block;
+  margin-left:5%;
+  
+}
+.logo img{
+  width:80px;
+  height:80px;
+  display:inline-block;
+}
+.logo p{
+    Vertical-align: top;
+    display: inline-block;
+    font-size: 28px;
+    margin-left: 22px;
+    margin-top: 33px;
+}
+
+</style>

@@ -1,0 +1,288 @@
+.filter-product {
+	
+}
+
+	.filter-product .carousel {
+		overflow: hidden;
+	}
+
+	.filter-product .filter-tabs {
+		list-style: none;
+		padding: 31px 0px 0px 0px;
+		margin: 0px;
+		text-align: center;
+	}
+	
+	     .box-type-16 .filter-product .filter-tabs {
+	          padding-top: 14px;
+	     }
+	     
+	     .box-type-3 .filter-product .filter-tabs {
+	          padding-top: 60px;
+	     }
+	     
+	     .box-type-14 .filter-product .filter-tabs {
+	          padding-top: 60px;
+	     }
+	     
+	     .box-type-4 .filter-product .filter-tabs {
+	          padding-top: 24px;
+	     }
+	     
+	     .box-type-5 .filter-product .filter-tabs {
+	          padding-top: 41px;
+	     }
+	     
+	     .box-type-11 .filter-product .filter-tabs {
+	          padding-top: 21px;
+	     }
+	     
+	     .box-type-17 .filter-product .filter-tabs {
+	          padding-top: 21px;
+	     }
+	     
+		.filter-product .filter-tabs ul {
+			list-style: none;
+			margin: 0px -15px;
+			padding: 9px 0px 0px 0px;
+			position: relative;
+		}
+		
+		     .box-type-3 .filter-product .filter-tabs ul {
+		          padding-left: 15px;
+		          padding-right: 15px;
+		     }
+		     
+		     .box-type-14 .filter-product .filter-tabs ul {
+		          padding-left: 15px;
+		          padding-right: 15px;
+		          padding-top: 15px;
+		     }
+	
+		.filter-product .filter-tabs ul > li {
+		     display: inline-block;
+		     vertical-align: top;
+		}
+		
+			.filter-product .filter-tabs ul > li > a {
+			    margin: 0px 15px;
+    padding: 10px 10px;
+    font-size: 13px;
+    color: #000;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+			}
+			
+			.filter-product .filter-tabs ul > li > a:hover {
+			     color: #333333;
+			}
+			
+			.filter-product .filter-tabs ul > li.active > a,
+			.filter-product .filter-tabs ul > li.active > a:hover,
+			.filter-product .filter-tabs ul > li.active > a:focus {
+			     color: #222;
+			}
+			     
+			     .filter-product .filter-tabs ul > li > a:before {
+			          content: '';
+			          position: absolute;
+			          width: 100%;
+			          height: 2px;
+			          bottom: -1px;
+			          left: 0;
+			          right: 0;
+			          opacity: 0;
+			          visibility: hidden;
+			          transition: all 0.2s ease-in;
+			          -webkit-transition: all 0.2s ease-in;
+			          -moz-transition: all 0.2s ease-in;
+			          z-index: 1;
+			     }
+			     
+			     .filter-product .filter-tabs ul > li.active > a:before {
+			          background: #f60e81 !important;
+			          visibility: visible;
+			          opacity: 1;
+			     }
+
+.tab-content {
+	position: relative;
+	background: #fff;
+	    border-top: 0px solid #ddd;
+		font-size:15px;
+}
+
+     .tab-content:before {
+          height: 1px;
+          content: '';
+          left: 0;
+          right: 0;
+          top: 0;
+          position: absolute;
+          z-index: 1;
+          display: block;
+     }
+     
+          .box-type-4.no-box-type-7 .tab-content:before {
+               left: 0 !important;
+               right: 0 !important;
+          }
+     
+     .tab-content:after {
+          height: 1px;
+          content: '';
+          left: 0;
+          bottom: 0;
+          right: 0;
+          position: absolute;
+          background: url(../img/bg-megamenu.png) top left repeat-x;
+          z-index: 1;
+          display: block;
+     }
+     
+     .box-type-3 .tab-content:after {
+          display: none;
+     }
+     
+     .box-type-14 .tab-content:after {
+          display: none;
+     }
+     
+     .fixed-body .col-md-12 > .filter-product .tab-content:after,
+     .fixed-body .col-md-12 > .filter-product .tab-content:before,
+     .fixed-body .col-sm-12 > .filter-product .tab-content:after,
+     .fixed-body .col-sm-12 > .filter-product .tab-content:before {
+          left: -45px;
+          right: -45px;
+     }
+     
+     .standard-body .fixed .col-md-12 > .filter-product .tab-content:after,
+     .standard-body .fixed .col-md-12 > .filter-product .tab-content:before,
+     .standard-body .fixed .col-sm-12 > .filter-product .tab-content:after,
+     .standard-body .fixed .col-sm-12 > .filter-product .tab-content:before {
+          left: -40px;
+          right: -40px;
+     }
+     
+     .border-width-1 .standard-body .full-width .col-md-12 > .filter-product .tab-content:after,
+     .border-width-1 .standard-body .full-width .col-md-12 > .filter-product .tab-content:before,
+     .border-width-1 .standard-body .full-width .col-sm-12 > .filter-product .tab-content:after,
+     .border-width-1 .standard-body .full-width .col-sm-12 > .filter-product .tab-content:before {
+          left: -4000px;
+          right: -4000px;
+     }
+				
+	.tab-content .prev-button, 
+	.tab-content .next-button {
+		position: absolute;
+		bottom: -18px;
+		z-index: 10;
+		width: 35px;
+		height: 35px;
+		border-radius: 100px;
+		-webkit-border-radius: 100px;
+		-moz-border-radius: 100px;
+		border: 1px solid #e5e5e5;
+		background: #fff;
+		color: #333;
+		transition: all 0.2s ease-in;
+		-webkit-transition: all 0.2s ease-in;
+		-moz-transition: all 0.2s ease-in;
+		padding: 8px 0px 0px 12px;
+		text-align: left;
+		left: 50%;
+		font-size: 13px;
+		font-family: Poppins;
+	}
+	
+	     .buttons-prev-next-type-2 .tab-content .prev-button, 
+	     .buttons-prev-next-type-2 .tab-content .next-button {
+	          border-radius: 0px;
+	          -webkit-border-radius: 0px;
+	          -moz-border-radius: 0px;
+	     }
+		
+		.tab-content .prev-button:hover, 
+		.tab-content .next-button:hover {
+		     background: #d9121f;
+		     border-color: #d9121f;
+		     color: #ffff;
+		}
+		
+		.tab-content .prev-button {
+			margin-left: -50px;
+		}
+		
+		.tab-content .next-button {
+		     margin-left: 15px;
+		     padding: 8px 0px 0px 14px;
+		}
+			
+			.tab-content .prev-button:before, 
+			.tab-content .next-button:before {
+			     content: "\f053";
+			     display: inline-block;
+			     font: normal normal normal 14px/1 FontAwesome;
+			     font-size: 11px;
+			     text-rendering: auto;
+			     -webkit-font-smoothing: antialiased;
+			     -moz-osx-font-smoothing: grayscale;
+			     transition: all 0.2s ease-in-out;
+			     -webkit-transition: all 0.2s ease-in-out;
+			     -moz-transition: all 0.2s ease-in-out;
+			}
+			     
+			     .tab-content .next-button:before {
+			          content: "\f054";
+			     }
+			     
+			     .tab-content .prev-button:hover:before, 
+			     .tab-content .next-button:hover:before {
+			          color: #fff;
+			     }
+			     
+@media (max-width: 1098px) {
+     .responsive .fixed-body .col-md-12 > .filter-product .tab-content:after,
+     .responsive .fixed-body .col-md-12 > .filter-product .tab-content:before,
+     .responsive .standard-body .fixed .col-md-12 > .filter-product .tab-content:after,
+     .responsive .standard-body .fixed .col-md-12 > .filter-product .tab-content:before,
+     .responsive .fixed-body .col-sm-12 > .filter-product .tab-content:after,
+     .responsive .fixed-body .col-sm-12 > .filter-product .tab-content:before,
+     .responsive .standard-body .fixed .col-sm-12 > .filter-product .tab-content:after,
+     .responsive .standard-body .fixed .col-sm-12 > .filter-product .tab-content:before {
+          left: -30px;
+          right: -30px;
+     }
+}
+			
+@media (max-width: 767px) {
+     .responsive .filter-product .filter-tabs {
+          padding-top: 21px;
+     }
+     
+          .responsive .box-type-3 .filter-product .filter-tabs {
+               padding-top: 30px;
+          }
+          
+          .responsive .box-type-14 .filter-product .filter-tabs {
+               padding-top: 30px;
+          }
+     
+     .responsive .filter-product .filter-tabs ul > li > a {
+          margin: 0px 12px;
+     }
+     
+     .responsive .fixed-body .filter-product .tab-content:after,
+     .responsive .fixed-body .filter-product .tab-content:before,
+     .responsive .standard-body .fixed .filter-product .tab-content:after,
+     .responsive .standard-body .fixed .filter-product .tab-content:before,
+     .border-width-1 .standard-body .full-width .filter-product .tab-content:after,
+     .border-width-1 .standard-body .full-width .filter-product .tab-content:before {
+          left: -20px;
+          right: -20px;
+     }
+}

@@ -1,0 +1,115 @@
+{{ header }}
+
+<div class="container">
+  <nav id="menu" class="navbar">
+    <div class="navbar-header"><span id="category" class="visible-xs">{{ text_category }}</span>
+      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+    </div>
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav menu_ul">
+        {% for category in categories %}
+        {% if category.children %}
+        <li class="dropdown"><a href="{{ category.href }}" class="dropdown-toggle" data-toggle="dropdown">{{ category.name }}</a>
+          <div class="dropdown-menu">
+            <div class="dropdown-inner"> {% for children in category.children|batch(category.children|length / category.column|round(1, 'ceil')) %}
+              <ul class="list-unstyled">
+                {% for child in children %}
+                <li><a href="{{ child.href }}">{{ child.name }}</a></li>
+                {% endfor %}
+              </ul>
+              {% endfor %}</div>
+            <a href="{{ category.href }}" class="see-all">{{ text_all }} {{ category.name }}</a> </div>
+        </li>
+        {% else %}
+        <li><a href="{{ category.href }}">{{ category.name }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</div>
+
+
+<div class="row" style="margin-left:11%;margin-right:11%;    margin-top: 100px;">
+ {% for product in products %}
+  
+  <div class="product-layout" style="width:20%;float:left;">
+    <div class="product-thumb transition">
+      <div class="image"><a href="{{ product.href }}"><img src="{{ product.thumb }}" alt="{{ product.name }}" title="{{ product.name }}" class="img-responsive" id="featured_image"/></a></div>
+      <div class="caption featured">
+        <p>{{ breadcrumbs[1].text}}</p>
+        <h4><a href="{{ product.href }}">{{ product.name }}</a></h4>
+        <span>{{ product.model }}</span>
+       
+       
+      </div>
+      
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<style>
+.product-thumb {
+    border: 0px!important;
+}
+h3{
+  color:black!important;
+}
+#featured_text
+{
+  margin-left:13%;
+}
+.featured{
+  text-align:center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.featured>p{
+  color:rgb(137,209,0);
+}
+.featured>span{
+  color:rgb(0,0,0);
+  font-weight:bold;
+}
+#featured_image{
+  max-width:none;
+  width: 286px;
+
+
+}
+.caption{
+  min-height:0px!important;
+}
+.middle_img
+{
+  width:100%;
+}
+#menu{
+  margin-left:13%;
+  margin-right:13%;
+  background-color: rgb(252,252,252);
+  background-image:none;
+  border-width:0px;
+    min-height: 40px;
+}
+#menu a{
+  color:#000!important;
+}
+#menu #category {
+   color:#000!important;
+}
+.menu_ul li
+{
+    font-size: 17px;
+    margin-left: 6%;
+}
+.menu_ul
+{
+  width:100%;
+}
+.container{
+  margin-top:80px;
+}
+</style>
+{{ footer }} 

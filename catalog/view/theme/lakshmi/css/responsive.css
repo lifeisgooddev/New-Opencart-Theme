@@ -1,0 +1,4668 @@
+@media (max-width: 991px) {
+     .responsive .standard-body .fixed {
+          padding: 0px 20px;
+     }
+
+	.responsive .standard-body .full-width .container {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	.responsive .standard-body .fixed .container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	
+	.responsive .standard-body .fixed2 .container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	
+	.responsive .main-fixed .container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	
+		.responsive .standard-body .container .container,
+		.responsive .main-fixed .container .container {
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+		
+	/* Block */
+	
+	.responsive .col-sm-3 .box-no-advanced.box-with-products,
+	.responsive .col-sm-4 .box-no-advanced.box-with-products,
+	.responsive .col-md-3 .box-no-advanced.box-with-products,
+	.responsive .col-md-4 .box-no-advanced.box-with-products {
+		display: none;
+	}
+	
+	.responsive .box-with-categories {
+	     margin-top: -25px !important;
+	}
+	
+	     .responsive .breadcrumb-style-1 .box-with-categories {
+	         
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-9 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-2 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-4 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-8 .box-with-categories {
+	          padding-top: 30px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-6 .box-with-categories {
+	          padding-top: 30px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-3 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-10 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-5 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	     
+	     .responsive .breadcrumb-style-11 .box-with-categories {
+	          padding-top: 40px !important;
+	          margin-top: 0px !important;
+	     }
+	
+	.responsive #main .box-with-links {
+	     margin-top: 0px !important;
+	     padding-top: 40px !important;
+	}
+
+     /* @group Header Type 3 */
+     
+     .responsive .header-type-3 #header-center,
+     .responsive .header-type-3 #header-left,
+     .responsive .header-type-3 #header-right {
+          display: block;
+          width: 100%;
+          min-width: 1px !important;
+          max-width: none !important;
+     }
+
+          .responsive .header-type-3 #header-left .logo,
+          .responsive .header-type-3 #top #header-right {
+               text-align: center;
+          }
+          
+          .responsive .header-type-3 #top #header-right {
+               padding-top: 5px;
+          }
+               
+     /* @end */
+     
+     /* @group Barber Footer */
+     
+     .responsive #main .barber-footer-padding-left .container > div {
+          padding-left: 15% !important;
+     }
+     
+     /* @end */
+
+     /* @group Header Type 5 */
+     
+     .responsive #main .header-type-5 #top .my-account {
+          margin-left: 0px;
+     }
+     
+     .responsive #main .header-type-5 #top .search_form {
+          margin-right: 12px;
+     }
+     
+     /* @end */
+     
+     /* @group Header Type 10 */
+     
+     .responsive .header-type-10 #top .pattern > .container {
+     }
+     
+          .responsive .header-type-10 #top .logo {
+               padding: 30px 0px 0px 0px;
+          }
+          
+          .responsive .header-type-10 #header-center {
+               padding-top: 23px;
+          }
+          
+          .responsive .header-type-10 #top #header-right {
+               padding-top: 0px;
+               padding-right: 33px;
+               text-align: right;
+          }
+          
+     /* @end */
+     
+     /* @group Header Type 13 */
+     
+     .responsive .header-type-13 #header-left {
+          display: block;
+          width: 100%;
+          float: none;
+     }
+     
+     /* @end */
+     
+     /* @group Market phone */
+     
+     .responsive .market-phone {
+          margin: 30px auto 0px auto;
+          display: block !important;
+     }
+     
+          .responsive .petshop2-phone {
+               margin-top: -20px !important;
+          }
+     
+     /* @end */
+     
+     /* @group Market phone */
+     
+     .responsive .carparts-phone {
+          margin: 30px auto 0px auto;
+          display: block !important;
+     }
+     
+     /* @end */
+     
+     /* @group Stationery phone */
+     
+     .responsive .stationery-phone {
+          margin: 30px auto 0px auto;
+          display: block !important;
+     }
+     
+     /* @end */
+     
+     /* @group Header Type 18 */
+     
+     .responsive .header-type-18 {
+     }
+     
+          .responsive .header-type-18 #top .search_form {
+               width: 170px !important;
+          }
+     
+     /* @end */
+
+     /* @group Breadcrumb */
+     
+     .responsive body[class*="product-category-"].show-vertical-megamenu-category-page .breadcrumb .container > div {
+          padding-left: 0 !important;
+     }
+     
+     /* @end */
+
+     /* @group Header type 24 */
+     
+     .responsive .header-type-24 #top .search_form .search-cat  {
+          min-width: 180px;
+     }
+     
+     .responsive .header-type-24 #top .pattern > .container > .row:before {
+          left: 10px;
+          right: 10px;
+     }
+     
+     .responsive .header-type-24 #top .logo {
+          padding-bottom: 1px;
+     }
+     
+     .responsive .header-type-24 #top .overflow-change-menu ul.menu {
+          padding: 4px 0px 0px 0px;
+     }
+     
+     .responsive .header-type-24 #top form {
+          padding-top: 4px;
+     }
+     
+     .responsive #main .header-type-24 .megamenu-background .vertical .megamenu-wrapper {
+          margin-bottom: -7px;
+     }
+     
+     .responsive .header-type-24 #top .pattern > .container .megamenu-background {
+          display: block;
+          text-align: left;
+          padding: 0px 30px 0px 30px;
+     }
+     
+          .responsive .header-type-24 #top .pattern > .container .megamenu-background .megaMenuToggle {
+               margin-top: 25px;
+          }
+     
+     .responsive .header-type-24 #top .pattern > .container #header-left:before,
+     .responsive .header-type-24 #top .pattern > .container #header-left:after {
+          display: none;
+     }
+     
+     .responsive .header-type-24 #top .pattern > .container #header-right {
+          text-align: center;
+     }
+     
+     .responsive .header-type-24 #top .overflow-change-menu ul.menu li {
+          padding: 0px 7px;
+     }
+     
+     /* @end */
+     
+     /* @group Shoes2 phone */
+     
+     .responsive .shoes2-phone {
+          margin: 20px auto 0px auto;
+          display: block !important;
+     }
+     
+     /* @end */
+}
+
+@media (max-width: 1270px) {
+	.responsive .camera_wrap {
+		height: auto !important;
+	}
+	
+	.responsive #top .search_form {
+	     width: 140px;
+	     margin-right: 18px;
+	}
+	
+	     .responsive .header-type-12 #top .search_form {
+	          width: 430px;
+	     }
+	     
+	     .responsive .header-type-12 #top .search_form .overflow-input {
+	          width: 285px;
+	     }
+	
+	.responsive #top .dropdown {
+	     margin-right: 12px;
+	}
+	
+	.responsive #top #cart_block {
+	     margin-left: 28px;
+	}
+	
+	.responsive #top #cart_block .cart-heading p {
+	     padding-left: 0px;
+	}
+	
+	.responsive .banner-big-sale {
+	     padding-left: 5%;
+	}
+	
+	.responsive .newsletter .heading {
+	     padding-left: 30px;
+	}
+	
+	.responsive .body-full-width .header-type-3 #header-right {
+	     min-width: 300px;
+	}
+	
+	.responsive .gardentools-newsletter .inputs input {
+	     width: 200px;
+	}
+	
+	.responsive .gardentools-newsletter .heading {
+	     padding-top: 77px;
+	}
+	
+     	.responsive .gardentools-newsletter .heading p {
+     	     font-size: 45px;
+     	}
+     	
+     /* @group Barber Footer */
+     
+     .responsive .barber-footer-padding-left .container > div {
+          padding-left: 25% !important;
+     }
+     
+     /* @end */
+     
+     /* @group Header Type 5 */
+     
+     .responsive .header-type-5 #top .my-account {
+          margin-left: 10px;
+     }
+     
+     .responsive .header-type-5 #top .search_form {
+          margin-right: 22px;
+     }
+     
+     /* @end */
+
+     /* @group Wine newsletter */
+     
+     .responsive .wine-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Cosmetics newsletter */
+     
+     .responsive .cosmetics-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Glamshop newsletter */
+     
+     .responsive .glamshop-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Medic newsletter */
+     
+     .responsive .medic-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     .responsive .newsletter.medic-newsletter .content p {
+          padding-left: 40px;
+     }
+     
+     /* @end */
+     
+     /* @group Cosmetics2 newsletter */
+     
+     .responsive .cosmetics2-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     .responsive .newsletter.cosmetics2-newsletter .content p {
+          padding-left: 40px;
+     }
+     
+     /* @end */
+     
+     /* @group Architecture newsletter */
+     
+     .responsive .architecture-newsletter.newsletter .inputs {
+          padding-right: 45px;
+     }
+     
+     .responsive .architecture-newsletter.newsletter .inputs input {
+          width: 180px;
+     }
+     
+     .responsive .newsletter.architecture-newsletter .content p {
+          padding-left: 40px;
+     }
+     
+     /* @end */
+     
+     /* @group Toys3 newsletter */
+     
+     .responsive .toys3-newsletter.newsletter .inputs {
+          padding-right: 45px;
+     }
+     
+     .responsive .toys3-newsletter.newsletter .inputs input {
+          width: 150px;
+     }
+     
+     .responsive .toys3-newsletter .content p {
+          padding-left: 40px;
+     }
+     
+     /* @end */
+     
+     /* @group Spices newsletter */
+     
+     .responsive .spices-newsletter.newsletter .inputs {
+          padding-right: 25px;
+     }
+     
+     /* @end */
+
+     /* @group Computer4 Parallax */
+     
+     .responsive .computer4-parallax {
+          padding-left: 50%;
+     }
+     
+     /* @end */
+
+     /* @group Architecture products */
+     
+     .responsive .architecture-products .product .right {
+          padding-top: 53px;
+     }
+     
+     /* @end */
+     
+     /* @group Header Type 14 */
+     
+     .responsive .header-type-14 #top .search_form {
+          width: 170px;
+          margin-left: 38px;
+          margin-right: 38px;
+     }
+     
+          .responsive .header-type-14 #top .search_form:before {
+               left: -41px;
+          }
+     
+     .responsive .header-type-14 #top #cart_block {
+          margin-left: 58px;
+     }
+     
+          .responsive .header-type-14 #top #cart_block:before {
+               left: -58px;
+          }
+          
+     .responsive .matrialarts-contact {
+          padding: 13px 40px 0px 0px;
+     }
+     
+          .responsive .matrialarts-contact:before {
+               left: -41px;
+          }
+          
+     /* @end */
+     
+     /* @group Header Type 15 */
+
+     .responsive .header-type-15 #top .search_form {
+          width: 260px;
+     }
+     
+     /* @end */
+     
+     /* @group Bakery Newsletter */
+     
+     .bakery-newsletter {
+     }
+               .responsive .bakery-newsletter.newsletter .inputs input {
+                    width: 248px;
+                    background: none;
+                    border: 1px solid rgba(255, 255, 255, .15);
+               }
+     
+     /* @end */
+     
+     /* @group Header Type 20 */
+     
+     .responsive .header-type-20 #top .search_form {
+          width: 252px !important;
+          max-width: 252px;
+     }
+     
+     /* @end */
+     
+     /* @group Holidays phone */
+     
+     .responsive .holidays-phone {
+          padding-right: 25px;
+     }
+     
+          .responsive .holidays-phone p {
+               font-size: 20px;
+               padding-top: 3px;
+          }
+     
+     /* @end */
+     
+     /* @group Product list type 4 */
+     
+     .responsive .product-list-type-4 .product-list {
+     }
+     
+               .responsive .product-list-type-4 .product-list > div .name-actions .name {
+                    padding: 44px 0px 0px 10px;
+               }
+               
+               .responsive .product-list-type-4 .product-list .desc {
+                    padding-top: 47px;
+               }
+     
+     /* @end */
+     
+     /* @group Books newsletter */
+     
+     .responsive .books-newsletter .heading .second-heading {
+          display: none;
+     }
+     
+     /* @end */
+}
+
+@media (max-width: 1098px) {
+	.responsive .product-grid .product .only-hover ul li a {
+	   
+	 
+	}
+	
+	.responsive .fixed-body .container,
+	.responsive .standard-body .fixed .container,
+	.responsive .standard-body .fixed2 .container,
+	.responsive .fixed-body-2-2 .container {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	
+	     .responsive .fixed-body .container .container,
+	     .responsive .standard-body .fixed .container .container,
+	     .responsive .standard-body .fixed2 .container .container {
+	     	padding-left: 0px;
+	     	padding-right: 0px;
+	     }
+	     
+	.responsive .categories-wall .row > div:first-child .category-wall .image {
+	     margin-left: -15px;
+	     padding-left: 15px;
+	}
+	
+	     .responsive .standard-body .full-width .categories-wall .row > div:first-child .category-wall .image {
+	          padding-left: 0px;
+	          margin-left: 0px;
+	     }
+	
+	.responsive .categories-wall .row > div:last-child .category-wall .image {
+	     margin-right: -15px;
+	     padding-right: 15px;
+	}
+	
+	     .responsive .standard-body .full-width .categories-wall .row > div:last-child .category-wall .image {
+	          padding-right: 0px;
+	          margin-right: 0px;
+	     }
+	     
+	.responsive .banner-big-sale {
+	     padding-left: 4%;
+	}
+	
+	     .responsive .banner-big-sale img {
+	          max-width: 55%;
+	     }
+	     
+	.responsive .fixed-body .col-md-12 > .box-with-products .clear:after,
+	.responsive .fixed-body .col-md-12 > .box-with-products .clear:before,
+	.responsive .standard-body .fixed .col-md-12 > .box-with-products .clear:after,
+	.responsive .standard-body .fixed .col-md-12 > .box-with-products .clear:before,
+	.responsive .fixed-body .col-sm-12 > .box-with-products .clear:after,
+	.responsive .fixed-body .col-sm-12 > .box-with-products .clear:before,
+	.responsive .standard-body .fixed .col-sm-12 > .box-with-products .clear:after,
+	.responsive .standard-body .fixed .col-sm-12 > .box-with-products .clear:before {
+	     left: -30px;
+	     right: -30px;
+	}
+	
+	.responsive .fixed-body .center-column .tab-content,
+	.responsive .standard-body .fixed .center-column .tab-content {
+	     margin: 0px -30px;
+	     padding-left: 30px;
+	     padding-right: 30px;
+	}
+	
+	.responsive .main-fixed .col-md-12 .col-md-12.center-column .panel,
+	.responsive .main-fixed .cart-info,
+	.responsive .standard-body .fixed2 .cart-info {
+	     margin-left: -30px;
+	     margin-right: -30px;
+	}
+	
+	     .responsive .main-fixed .cart-info table td:first-child ,
+	     .responsive .standard-body .fixed2 .cart-info table td:first-child {
+	          padding-left: 30px;
+	     }
+	     
+	     .responsive .main-fixed .cart-info table td:last-child,
+	     .responsive .standard-body .fixed2 .cart-info table td:last-child {
+	          padding-right: 30px !important;
+	     }
+	
+	     .responsive .main-fixed .col-md-12 .col-md-12.center-column .panel-heading {
+	          padding-left: 30px;
+	          padding-right: 30px;
+	     }
+	     
+	     .responsive .center-column .panel-body { 
+	     	padding-left: 30px;
+	     	padding-right: 30px;
+	     }
+	     
+	.responsive .standard-body .fixed .center-column .panel,
+	.responsive .standard-body .fixed .cart-info {
+	     margin-left: -30px;
+	     margin-right: -30px;
+	}
+	
+	     .responsive .standard-body .fixed .cart-info table td:first-child {
+	          padding-left: 30px;
+	     }
+	     
+	     .responsive .standard-body .fixed .cart-info table td:last-child {
+	          padding-right: 30px;
+	     }
+	
+	     .responsive .standard-body .fixed .center-column .panel-heading {
+	          padding-left: 30px;
+	          padding-right: 30px;
+	     }
+	     
+	     .responsive .standard-body .fixed .center-column .panel-body { 
+	     	padding-left: 30px;
+	     	padding-right: 30px;
+	     }
+	     
+	/* @group Barber Footer */
+	
+	.responsive .barber-footer-padding-left .container > div {
+	     padding-left: 20% !important;
+	}
+	
+	/* @end */
+	
+	/* @group Wine newsletter */
+	
+	.responsive .newsletter.wine-newsletter .heading p {
+	     font-size: 20px;
+	}
+	
+	.responsive .newsletter.wine-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Cosmetics newsletter */
+	
+	.responsive .newsletter.cosmetics-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Glamshop newsletter */
+	
+	.responsive .newsletter.glamshop-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Medic newsletter */
+	
+	.responsive .newsletter.medic-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Cosmetics2 newsletter */
+	
+	.responsive .newsletter.cosmetics2-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Architecture newsletter */
+	
+	.responsive .newsletter.architecture-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Toys3 newsletter */
+	
+	.responsive .newsletter.toys3-newsletter .inputs input {
+	     width: 110px;
+	}
+	
+	/* @end */
+	
+	/* @group Spices newsletter */
+	
+	.responsive .newsletter.spices-newsletter .heading p {
+	     font-size: 20px;
+	}
+	
+	.responsive .newsletter.spices-newsletter .inputs input {
+	     width: 140px;
+	}
+	
+	/* @end */
+	
+	/* @group Computer4 Parallax */
+	
+	.responsive .computer4-parallax {
+	     padding-left: 40%;
+	}
+	
+	/* @end */
+	
+	/* @group Military newsletter */
+	
+	.responsive .military-newsletter {
+	     padding: 0px 35px 0px 35px;
+	}
+	
+	/* @end */
+	
+	.responsive .header-type-12 #top .search_form {
+	     width: 310px;
+	}
+	
+	.responsive .header-type-12 #top .search_form .overflow-input {
+	     width: 165px;
+	}
+	
+	/* @group Market contact */
+	
+	.responsive .market-contact {
+	     
+	}
+	     
+	     .responsive #main .market-contact p {
+	          padding: 39px 0px 0px 4px;
+	          font-size: 16px;
+	     }
+	
+	/* @end */
+	
+	/* @group Market products */
+	
+	.responsive .market-products-categories .image {
+	     display: none;
+	}
+	          
+	/* @end */
+	
+	/* @group Architecture products */
+	
+	.responsive .architecture-products .product .right {
+	     padding-top: 43px;
+	}
+	
+	/* @end */
+	
+	/* @group Header Type 15 */
+	
+	.responsive .header-type-15 #top .search_form {
+	     width: 140px;
+	}
+	     
+	/* @end */
+	
+	/* @group Bakery Newsletter */
+	
+	.bakery-newsletter {
+	}
+	
+	     .responsive .newsletter.bakery-newsletter .heading h6 {
+	          font-size: 25px;
+	          line-height: 1;
+	          padding-top: 7px;
+	     }
+	     
+	          .responsive .bakery-newsletter.newsletter .inputs input {
+	               width: 188px;
+	               background: none;
+	               border: 1px solid rgba(255, 255, 255, .15);
+	          }
+	
+	/* @end */
+	
+	/* @group Shoes3 newsletter */
+
+	.responsive .shoes3-newsletter {
+	     padding-left: 40px;
+	     padding-right: 40px;
+	}
+	
+	     .responsive .shoes3-newsletter .inputs input {
+	          width: 170px;
+	     }
+	     
+	/* @end */
+	
+	/* @group Computer8 newsletter */
+
+	.responsive .computer8-newsletter {
+	}
+	
+	     .responsive .computer8-newsletter .heading {
+	          padding-right: 40px;
+	     }
+	
+	     .responsive .computer8-newsletter .inputs {
+	          padding-left: 40px;
+	     }
+	
+	     .responsive .computer8-newsletter .inputs input {
+	          width: 170px;
+	     }
+
+	     
+	/* @end */
+}
+
+@media (max-width: 991px) {
+	.responsive #main .dropdown-menu {
+		display: none !important;
+		visibility: visible !important;
+		opacity: 1 !important;
+		-webkit-transition: none !important;
+		-moz-transition: none !important;
+		-o-transition: none !important;
+		-ms-transition: none !important;
+		transition: none !important;
+	}
+	
+		.responsive #main .open > .dropdown-menu {
+			display: block !important;
+		}
+		
+	/* @group Computer4 Parallax */
+	
+	.responsive .computer4-parallax {
+	     padding-left: 30%;
+	}
+	
+	/* @end */
+	
+	/* @group Header Type 12 */
+	
+	.responsive .header-type-12 #top #header-left,
+	.responsive .header-type-12 #top #header-right {
+	     width: 100%;
+	     display: block;
+	     text-align: center;
+	}
+	
+	     .responsive .header-type-12 #top #header-left .logo {
+	          text-align: center;
+	     }
+	
+	     .responsive .header-type-12 #top .search_form {
+	          margin-left: 0px;
+	     }
+	     
+	/* @end */
+	
+	/* @group Architecture products */
+	
+	.responsive .architecture-products .product .right {
+	     padding-top: 33px;
+	}
+	
+	/* @end */
+	
+	/* @group Header Type 14 */
+
+	.responsive .header-type-14 #top .search_form {
+	     width: 100px;
+	     margin-left: 18px;
+	     margin-right: 18px;
+	}
+	
+	     .responsive .header-type-14 #top .search_form:before {
+	          left: -21px;
+	     }
+	
+	.responsive .header-type-14 #top #cart_block {
+	     margin-left: 38px;
+	}
+	
+	     .responsive .header-type-14 #top #cart_block:before {
+	          left: -38px;
+	     }
+	     
+	.responsive .matrialarts-contact {
+	     padding: 13px 20px 0px 0px;
+	}
+	
+	     .responsive .matrialarts-contact:before {
+	          left: -21px;
+	     }
+	     
+	/* @end */
+	
+	.responsive .standard-body .header-type-13 .fixed .search_form {
+	     margin-right: 10px;
+	     margin-left: 10px;
+	}
+	
+	/* @group Header Type 19 */
+	
+	.responsive .body-header-type-19 .camera_slider {
+	     margin: 30px 0px 0px 0px;
+	}
+	
+	     .responsive .body-header-type-19.common-home #slider .pattern {
+	          position: relative;
+	          margin-top: 0px;
+	     }
+	     
+	     .responsive .header-type-19 .shop-by-car {
+	          padding-left: 25px;
+	          width: 160px;
+	          min-width: 160px;
+	     }
+	
+	/* @end */
+}
+
+@media (max-width: 500px) {
+     .responsive .product-grid > .row > div {
+          width: 100%;
+          float: none;
+     }
+     
+     .responsive .box-product .carousel .item .product-grid .row:first-child > div {
+          width: 50%;
+          float: left;
+     }
+     
+          .responsive #main .product-grid .row > div.col-xs-6 .product:after {
+               content: '';
+               position: absolute;
+               top: 0;
+               left: -30px !important;
+               right: -30px !important;
+               height: 1px;
+               background: url(../img/bg-megamenu.png) top left repeat-x;
+               display: block !important;
+          }
+
+               .responsive #main .product-grid .row > div.col-xs-6:first-child .product:after {
+                    display: none !important;
+               }
+          
+               .responsive #main .with-scroll .product-grid .row > div.col-xs-6 .product:after,
+               .responsive #main .carousel-inner.owl-carousel .product-grid .row > div.col-xs-6 .product:after {
+                    display: none !important;
+               }
+
+          .responsive .product-grid .row > div.col-xs-6 .product:before {
+               display: none !important;
+          }
+          
+               .responsive .product-grid .row > div.col-xs-6 .product:hover:before,
+               .responsive .with-scroll .product-grid .row > div.col-xs-6 .product:before,
+               .responsive .carousel-inner.owl-carousel .product-grid .row > div.col-xs-6 .product:before {
+                    display: block !important;
+               }
+               
+     .responsive .architecture-products .row > div {
+          width: 100%;
+          float: none;
+     }
+}
+
+@media (min-width: 991px) and (max-width: 1098px) {
+     .responsive #top .search_form {
+          width: 120px;
+          margin-right: 15px;
+     }
+     
+     .responsive #top .dropdown {
+          margin-right: 10px;
+     }
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+     .responsive #top .search_form {
+          width: 100px;
+          margin-right: 15px;
+     }
+     
+          .responsive .search_form .button-search, 
+          .responsive .search_form .button-search2 {
+               right:0;
+          }
+          
+     .responsive .header-type-7 #top .search_form {
+          width: 100% !important;
+     } 
+     
+     .responsive #top .dropdown {
+          margin-right: 10px;
+     }
+     
+          .responsive #top .dropdown > a:after {
+               margin-left: 5px;
+          }
+          
+          .responsive #top form:last-child .dropdown {
+               margin-right: -17px;
+               position: relative;
+          }
+          
+     .responsive #top #cart_block {
+          margin-left: 23px;
+     }
+     
+          .responsive #top #cart_block .cart-heading p {
+               padding-left: 7px;
+          }
+}
+
+@media (max-width: 767px) {
+     .responsive .border-width-1 .box-with-products .clear:after,
+     .responsive .border-width-1 .box-with-products .clear:before {
+          left: -20px;
+          right: -20px;
+     }
+     
+     .responsive .body-other .standard-body .full-width .box-with-products .clear:after,
+     .responsive .body-other .standard-body .full-width .box-with-products .clear:before {
+          left: 0px;
+          right: 0px;
+     }
+
+	/* @group Row */
+	
+	.responsive .row {
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+	
+		.responsive .row > div {
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+		
+	.responsive .fixed-body-2-2 .main-content .pattern > .container {
+		padding-left: 20px !important;
+		padding-right: 20px !important;
+	}
+
+	.responsive .standard-body .full-width .container {
+		padding: 0px 20px;
+	}
+	
+	.responsive .standard-body .fixed {
+		padding: 0px 20px;
+	}
+	
+		.responsive .standard-body .fixed .pattern > .container {
+			padding: 0px 20px;
+			overflow: hidden;
+		}
+
+	.responsive .standard-body .fixed2 .container {
+		padding: 0px 20px;
+	}
+	
+	.responsive .fixed-body {
+		padding: 0px;
+	}
+	
+		.responsive .main-fixed .container {
+			padding: 0px 20px;
+		}
+		
+		.responsive .standard-body .container .container {
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+		
+	/* @end */
+		
+	/* @group Mobile Disabled */
+	
+	.responsive .mobile-disabled {
+		display: none !important;
+	}
+	
+	/* @end */
+	
+	/* @group Top */
+	
+	.responsive #top .pattern > .container {
+	     padding-top: 10px;
+	     padding-bottom: 10px;
+	}
+          
+          /* @group Menu */
+          
+          .responsive .top-bar {
+               text-align: center;
+               padding-bottom: 16px;
+          }
+          
+          .responsive .top-bar .menu {
+	          float: none;
+	     }
+	     
+	          .responsive .top-bar .menu li {
+	               padding: 0px 7px;
+	          }
+	          
+	          .responsive .top-bar-type-4 #top .top-bar form:before {
+	               display: none !important;
+	          }
+
+	               .responsive .top-bar-type-4 #top .top-bar form {
+	                    padding-left: 0px;
+	               }
+	                    
+	          .responsive .top-bar-type-4 .top-bar .menu li {
+	               padding: 0px 7px;
+	          }
+	               
+	               .responsive .top-bar-type-4 .top-bar .menu li:before {
+	                    display: none;
+	               }
+	          
+          /* @end */
+               
+          /* @group Search */
+          
+          .header-type-2 #top .search_form {
+             
+          }
+          
+          /* @end */
+          
+          /* @group Left */
+	     
+	     .responsive #top #header-left {
+	     	text-align: center;
+	     }
+	     
+	     /* @end */
+		
+     	/* @group Logo */
+     	
+     	.responsive #top .logo {
+     		text-align: center;
+     		padding: 5px 0px 5px 0px;
+     	}
+     	     	
+     	/* @end */
+     		
+     	/* @group Block Cart */
+     	
+     	.responsive #top #cart_block .dropdown-menu {
+     		display: none !important;
+     	}
+     		
+     	/* @end */
+     	
+     	/* @group Right */
+     	
+     	.responsive #top #header-right {
+     		text-align: center;
+     	}
+     	
+     	/* @end */
+	
+	/* @end */
+	
+	/* @group Breadcrumb
+	------------------*/
+	
+	.responsive .breadcrumb .container {
+		padding-top: 0px !important;
+		overflow: visible !important;
+	}
+	
+	     .responsive .breadcrumb-style-10 .breadcrumb .container > div {
+	          padding-top: 40px;
+	     }
+	     
+          .responsive body[class*="product-category-"].show-vertical-megamenu-category-page .breadcrumb .container > div {
+               padding-left: 0 !important;
+          }
+          
+	/* @end */
+
+	/* @group Main Content
+	------------------*/
+	
+	.responsive .main-content .pattern > .container,
+	.responsive .standard-body .main-content .pattern > .container {
+		padding-bottom: 0px;
+	}
+	
+		/* @group Slider */
+		
+		.responsive .camera_slider {
+			margin-top: 30px !important;
+		}
+		
+			.responsive #slider .fullwidth .camera_slider {
+				margin-top: 0px !important;
+			}
+			
+		/* @end */
+			
+		/* @group Center column */
+		
+		.responsive .body-white-type-2 #mfilter-content-container {
+		     margin-top: 10px;
+		}
+		
+		     .responsive .body-white-type-2 .main-fixed #mfilter-content-container {
+		          margin-top: 20px;
+		     }
+		
+		.responsive .box-type-12 #mfilter-content-container {
+		     margin-top: 10px;
+		}
+		
+		.responsive .box-type-19 #mfilter-content-container {
+		     margin-top: 10px;
+		}
+		
+		.responsive .box-type-16 #mfilter-content-container {
+		     margin-top: 10px;
+		}
+		
+		.responsive body[class*="product-category-"] .col-md-9 .center-column {
+		     margin-top: 10px;
+		}
+		
+		.responsive .standard-body .full-width .center-column.content-without-background {
+		     padding-top: 10px !important;
+		}
+		
+		.responsive .center-column > *:first-child {
+		     margin-top: 30px;
+		}
+		
+		     .responsive .body-white-type-2 .main-fixed .center-column > *:first-child {
+		          margin-top: 45px;
+		     }
+		     
+		          .responsive body[class*="product-product-"].body-white-type-2 .main-fixed .center-column > *:first-child {
+		               margin-top: 10px;
+		          }
+		
+		     .responsive .standard-body .full-width .center-column.content-with-background {
+		          padding: 25px 35px 5px 35px;
+		          margin-top: 40px !important;
+		     }
+		     
+		          .responsive .body-white .standard-body .full-width .center-column.content-with-background {
+		               padding: 0px 10px 0px 10px;
+		          }
+		     
+		          .responsive .standard-body .full-width .center-column.content-with-background:before {
+		               left: 10px;
+		               right: 10px;
+		          }
+		          
+		          .responsive .standard-body .full-width .center-column .panel {
+		               margin-left: -25px;
+		               margin-right: -25px;
+		          }
+		          
+		               .responsive .body-other .standard-body .full-width .center-column .panel {
+		                    margin-left: -25px !important;
+		                    margin-right: -25px !important;
+		               }
+		          
+		               .responsive .body-white.border-width-1.checkout-checkout .standard-body .full-width .center-column .panel:first-child {
+		                    margin-top: -40px;
+		               }
+		               
+		               .responsive .body-white-type-2.border-width-1.checkout-checkout .standard-body .full-width .center-column .panel:first-child {
+		                    margin-top: 0px;
+		               }
+		               
+		               .responsive .box-type-12.border-width-1.checkout-checkout .standard-body .full-width .center-column .panel:first-child {
+		                    margin-top: 0px;
+		               }
+		               
+		               .responsive .box-type-19.border-width-1.checkout-checkout .standard-body .full-width .center-column .panel:first-child {
+		                    margin-top: 0px;
+		               }
+		          
+		               .responsive .standard-body .full-width .center-column .panel-heading,
+		               .responsive .standard-body .full-width .center-column .panel-body {
+		                    padding-left: 0;
+		                    padding-right: 0;
+		               }
+		               
+		               .responsive .body-other .standard-body .full-width .center-column .panel-heading,
+		               .responsive .body-other .standard-body .full-width .center-column .panel-body {
+		                    padding-left: 25px;
+		                    padding-right: 25px;
+		               }
+		               
+		               .responsive .standard-body.fixed-body-2-2 .full-width .center-column .panel-heading,
+		               .responsive .standard-body.fixed-body-2-2 .full-width .center-column .panel-body {
+		                    padding-left: 25px;
+		                    padding-right: 25px;
+		               }
+		               
+		               .responsive .border-width-1 .standard-body .full-width .center-column .panel-heading,
+		               .responsive .border-width-1 .standard-body .full-width .center-column .panel-body {
+		                    padding-left: 25px;
+		                    padding-right: 25px;
+		               }
+          
+               /* @group Shopping Cart page */
+               
+               .responsive .checkout-cart .center-column .buttons .btn {
+                    padding-left: 20px;
+                    padding-right: 20px;
+               }
+               		  
+               .responsive .standard-body .full-width .cart-info {
+		          margin-left: -25px;
+		          margin-right: -25px;
+		     }
+
+		          .responsive .standard-body .full-width .center-column > *:first-child .cart-info {
+		               margin-top: -25px;
+		          }
+		     
+		          .responsive .body-white .standard-body .full-width .center-column > *:first-child .cart-info {
+		               margin-top: -40px;
+		          }
+		          
+		               .responsive .body-white.box-type-16 .standard-body .full-width .center-column > *:first-child .cart-info {
+		                    margin-top: 0px;
+		               }
+		     
+		     	.responsive .cart-info table td {
+		     	     padding-left: 5px;
+		     	     padding-right: 5px;
+		     	}
+		     	
+		     	     .responsive .cart-info table td:first-child {
+		     	          padding-left: 15px;
+		     	     }
+		     	     
+		     	     .responsive .cart-info table td:last-child {
+		     	          padding-right: 15px !important;
+		     	     }
+		     	     
+		     	     .responsive .body-white .standard-body .full-width .cart-info table td:last-child {
+		     	          padding-right: 20px !important;
+		     	     }
+		     
+		     	.responsive .cart-info table thead td {
+		     	     padding: 18px 0px 14px 0px;
+		     	}
+		     	
+		     	.responsive .cart-total {
+		     	     margin-bottom: 20px;
+		     	     padding-top: 20px;
+		     	}
+		     	
+		     /* @end */
+		
+		/* @end */
+	
+		/* @group Banner */
+		
+		.responsive .banners > div {
+			padding-top: 30px;
+		}
+		
+     		.responsive .banners.banners-with-padding-20 > div {
+     			padding-top: 20px;
+     		}
+		
+		     .responsive .banners.banners-with-padding-0 > div:first-child {
+		     	padding-top: 0px;
+		     }
+		
+		/* @end */
+		
+		/* @group Block */
+		
+		.responsive .box {
+			margin-top: 18px;
+		}
+		
+		     .responsive .col-sm-3 .box-no-advanced.box .box-content, 
+		     .responsive .col-sm-4 .box-no-advanced.box .box-content, 
+		     .responsive .col-md-3 .box-no-advanced.box .box-content, 
+		     .responsive .col-md-4 .box-no-advanced.box .box-content {
+		          padding-left: 25px;
+		          padding-right: 25px;
+		     }
+		
+		     .responsive .box-type-3 .box {
+		          margin-top: 30px;
+		     }
+		     
+		     .responsive .box-type-14 .box {
+		          margin-top: 30px;
+		     }
+		
+		     .responsive .box-with-categories {
+		     }
+		     
+		          .responsive .breadcrumb-style-1 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-9 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-2 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-4 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-8 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-6 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-3 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-10 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-5 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .breadcrumb-style-11 .box-with-categories {
+		               margin-top: 0px !important;
+		          }
+		          
+		          .responsive .standard-body .full-width .category-box-type-2 {
+		               padding-top: 40px !important;
+		          }
+		          
+		               .responsive .box-type-4 .standard-body .full-width .category-box-type-2 {
+		                    padding-top: 30px !important;
+		               }
+		
+		     .responsive .box.with-scroll {
+		          margin-bottom: 46px;
+		     }
+			
+		     /* @group Carousel mobile products */
+			
+			.responsive .box-product .carousel .item .product-grid .row > div {
+				display: none !important;
+			}
+			
+				.responsive .box-product .carousel .item .product-grid .row:first-child > div:first-child,
+				.responsive .box-product .carousel .item .product-grid .row:first-child > div:nth-child(2) {
+					display: block !important;
+				}
+				
+			/* @end */
+			
+		/* @end */
+          
+          /* @group Box categories */
+          
+          .responsive .box-with-categories .box-heading {
+               padding-left: 25px;
+               padding-right: 25px;
+          }
+          
+               .responsive .box-category > ul > li > a {
+                    padding-left: 25px;
+                    padding-right: 25px;
+               }
+               
+                    .responsive .box-category ul li li a {
+                         padding-left: 40px;
+                    }
+          
+          /* @end */
+          
+          /* @group Product */
+		
+		.responsive .standard-body .full-width .product-grid {
+		     padding: 0px 9px;
+		     overflow: hidden;
+		}
+		
+		     .responsive .border-width-1 .standard-body .full-width .product-grid {
+		          padding: 0px;
+		          overflow: visible;
+		     }
+		
+		.responsive .box-product .carousel {
+		     margin: 0px -9px;
+		     padding: 0px 9px;
+		}
+		
+          .responsive .product-grid .product:before {
+               right: -11px;
+          }
+          
+          .responsive .product-grid .product:hover:before {
+               right: -9px;
+               left: -9px;
+          }
+          
+			.responsive .product-grid .row > div.col-xs-6:nth-child(odd) {
+				clear: both;
+			}
+			
+			.responsive .product-grid .row > div.col-xs-6 .product:after {
+			     content: '';
+			     position: absolute;
+			     top: 0;
+			     left: -10px;
+			     right: -30px;
+			     height: 1px;
+			     background: url(../img/bg-megamenu.png) top left repeat-x;
+			     display: block;
+			}
+			
+			     .responsive .product-grid .row > div.col-xs-6:nth-child(2n+1) .product:after {
+			          left: -30px;
+			          right: -10px;
+			     }
+			
+			.responsive .product-grid .row > div.col-xs-6:first-child .product:after,
+			.responsive .product-grid .row > div.col-xs-6:nth-child(2) .product:after,
+			.responsive .product-grid .row > div.col-xs-6:nth-child(2n) .product:before {
+			     display: none !important;
+			}
+			
+			     .responsive .product-grid .row > div.col-xs-6:nth-child(2n) .product:hover:before {
+			          display: block !important;
+			     }
+			
+			.responsive .product-grid .product:before {
+			     bottom: -1px;
+			}
+			
+			.responsive .product-grid > .row {
+			     margin: 0px -20px;
+			     padding: 0px 10px 1px 10px;
+			}
+			
+			     .responsive .product-grid > .row:before {
+			          left: -20px;
+			          right: -20px;
+			          width: auto;
+			          display: block;
+			     }
+			     
+			          .responsive .product-grid > .row:first-child:before {
+			               display: none;
+			          }
+          
+          /* @end */
+					
+		/* @group Product list */
+		
+		.responsive .product-list > div {
+		     text-align: center;
+		}
+		
+		     .responsive .product-list > div:before {
+		          left: -20px;
+		          right: -20px;
+		     }
+		     
+		     .responsive .border-width-0 .standard-body .full-width .product-list > div:before {
+		          left: -2px;
+		          right: -2px;
+		     }
+		     
+		     .responsive .product-list .name-actions:before,
+		     .responsive .product-list .desc:before {
+		          display: none;
+		     }
+		     
+		     .responsive .product-list .name-actions > .name,
+		     .responsive .product-list .name-actions > .price,
+		     .responsive .product-list .name-actions > ul {
+		          padding-left: 0px;
+		          padding-right: 0px;
+		     }
+		     
+		          .responsive .product-list .name-actions > ul {
+		               padding-left: 10px;
+		          }
+		     
+		     .responsive .product-list .name-actions > .name {
+		          padding-top: 20px;
+		     }
+		     
+		     .responsive .product-list .desc {
+		          padding-top: 20px !important;
+		     }
+
+		/* @end */
+					
+		/* @group Category page */
+		
+		.responsive .product-filter {
+		}
+		
+			.responsive .product-filter .options,
+			.responsive .product-filter .list-options,
+			.responsive .product-filter .list-options .limit,
+			.responsive .product-filter .list-options .sort {
+				float: none;
+				margin: 0px;
+				padding: 0px;
+				clear: both;
+			}
+			
+			.responsive .product-filter .options .button-group,
+			.responsive .product-filter .options .product-compare {
+			     padding-bottom: 10px;
+			}
+			
+			.responsive .product-filter .list-options .limit,
+			.responsive .product-filter .list-options .sort {
+			     float: left;
+			     clear: none;
+			     margin: 0px 30px 10px 0px;
+			}
+			
+			     .responsive .product-filter .list-options .limit:after,
+			     .responsive .product-filter .list-options .sort:after {
+			          margin-top: 16px;
+			     }
+				
+               .responsive .product-filter .list-options .sort:before,
+               .responsive .product-filter .list-options .limit:before,
+               .responsive .product-filter .options .product-compare:before {
+                    display: none;
+               }
+               
+               .responsive .category-info:before,
+               .responsive .refine_search_overflow:after {
+                    left: -20px !important;
+                    right: -20px !important;
+               }
+               
+                    .responsive .body-other .standard-body .full-width .category-info:before,
+                    .responsive .body-other .standard-body .full-width .refine_search_overflow:after {
+                         left: 0px !important;
+                         right: 0px !important;
+                    }
+               
+               .responsive .product-list {
+                    margin: 0px -20px;
+                    padding: 0px 20px;
+                    width: auto !important;
+               }
+               
+               .responsive .border-width-0 .standard-body .full-width .product-list {
+                    margin: 0px;
+                    padding: 0px;
+               }
+               
+                    .responsive .border-width-0 .standard-body .full-width .product-list > div {
+                         margin-left: 0px;
+                         margin-right: 0px;
+                    }
+               
+               .responsive .category-list {
+                    margin-left: -20px;
+                    margin-right: -20px;
+                    padding-left: 20px;
+                    padding-right: 20px;
+               }
+               
+                    .responsive .body-other .standard-body .full-width .product-list,
+                    .responsive .body-other .standard-body .full-width .category-list {
+                         margin-left: 0px;
+                         margin-right: 0px;
+                    }
+               
+               .responsive .center-column .product-grid:before,
+               .responsive .center-column .product-grid:after {
+                    left: -20px;
+                    right: -20px;
+               }
+				
+		/* @end */
+			
+		/* @group Product page */
+		
+		.responsive .body-other .standard-body .full-width .product-info {
+		     padding: 25px;
+		}
+		
+		     .responsive .body-other .standard-body .full-width .product-info:before {
+		          top: 40px;
+		     }
+		
+		.responsive .product-info .popup-gallery.col-sm-7,
+		.responsive .product-info .product-center.col-sm-5 {
+		    width: 100%;
+		} 
+		
+		     .responsive .product-info .product-center,
+		     .responsive .product-block,
+		     .responsive .product-info .product-image {
+		          margin-top: 40px;
+		     }
+		     
+		          .responsive .product-info .col-sm-10 .product-image {
+		               margin-top: 5px;
+		          }
+		     
+		     .responsive .product-info .thumbnails {
+		          padding-top: 40px;
+		     }
+		     
+		     .responsive .product-info .cart .add-to-cart,
+		     .responsive .product-info .cart .minimum {
+		          padding-left: 25px;
+		          padding-right: 25px;
+		     }
+		     
+		     .responsive .product-info .cart .links {
+		          padding-left: 25px;
+		     }
+		
+			/* Thumbnails */
+
+			.responsive .product-info .thumbnails li,
+			.responsive .product-info .thumbnails-left li {
+				width: 25%;
+				float: left;
+			}
+			
+			/* Htabs */
+			
+			.responsive .center-column .tab-content {
+			     padding-top: 25px;
+			     padding-bottom: 25px;
+			}
+			
+			     .responsive .standard-body .full-width .center-column .tab-content {
+			          padding-left: 25px;
+			          padding-right: 25px;
+			     }
+			     
+			          .responsive .body-white .standard-body .full-width .center-column .tab-content {
+			               padding-left: 0px;
+			               padding-right: 0px;
+			          }
+			
+			     .responsive .htabs {
+			          padding-top: 34px;
+			     }
+			     
+			          .responsive .box-type-3 .htabs:before {
+			               top: 30px;
+			          }
+			          
+			          .responsive .box-type-14 .htabs:before {
+			               top: 30px;
+			          }
+			
+		/* @end */
+		
+		/* @group Pagination */
+		
+		.responsive div.pagination-results .text-left,
+		.responsive div.pagination-results .text-right { 
+			text-align:center;
+		}
+		
+		/* @end */
+		
+		/* @group Content */
+		
+		.responsive .login-content .left,
+		.responsive .login-content .right,
+		.responsive .main-content .content .left,
+		.responsive .main-content .content .right,
+		.responsive .checkout-content .left,
+		.responsive .checkout-content .right { 
+			float: none;
+			width: 100%; 
+		}
+		
+		/* @end */
+     
+          /* @group Categories Wall */
+          
+          .responsive .categories-wall {
+               margin-top: 52px !important;
+          }
+          
+               .responsive .categories-wall.type-2 {
+                    margin-top: 0px !important;
+               }
+          
+               .responsive .categories-wall .category-wall {
+                    margin: 0px -20px;
+               }
+               
+                    .responsive .categories-wall.type-2 .category-wall {
+                         margin: 30px 0px 0px 0px;
+                    }
+                    
+                    .responsive .categories-wall .category-wall:before {
+                         right: 0;
+                         left: 0;
+                         top: 0;
+                         height: 1px;
+                         bottom: auto;
+                         background-repeat: repeat-x;
+                         display: block;
+                         width: 100%;
+                    }
+                    
+                         .responsive .categories-wall.type-2 .category-wall:before {
+                              display: none;
+                         }
+          
+          /* @end */
+     
+     /* @end */
+
+	/* @group Custom Footer
+	-----------------*/
+	
+	.responsive .custom-footer .pattern {
+	}
+	
+	     .responsive .custom-footer .container > .row > div:before{
+	          width: auto;
+	          height: 1px;
+	          bottom: auto;
+	          top: auto;
+	          left: -20px;
+	          right: -20px;
+	          margin-left: 0;
+	          background-repeat: repeat-x;
+	          margin-top: -5px;
+	     }
+	     
+	     .responsive .custom-footer .container > .row > div {
+	          padding-left: 10px;
+	     }
+
+		
+	/* @end */
+	
+	/* @group Footer
+	-----------------*/
+	
+	.responsive .footer .pattern {
+	}
+	
+	     .responsive .standard-body .full-width.footer .container > .row:before,
+	     .responsive .standard-body .full-width.footer .advanced-grid .container > div > .row:before {
+	          left: -10px;
+	          right: -10px;
+	     } 
+	     
+	     .responsive .main-fixed2 .footer .container > .row:before,
+	     .responsive .main-fixed2 .footer .advanced-grid .container > div > .row:before {
+	          left: -10px;
+	          right: -10px;
+	     } 
+	
+		.responsive .footer .container > .row > div:before, 
+		.responsive .footer .advanced-grid .container > div > .row > div:before {
+		     width: auto;
+		     height: 1px;
+		     bottom: auto;
+		     top: auto;
+		     left: -20px;
+		     right: -20px;
+		     margin-left: 0;
+		     background-repeat: repeat-x;
+		     margin-top: -23px;
+		}
+		
+		     .responsive .footer-type-23 .footer .container > .row > div:before, 
+		     .responsive .footer-type-23 .footer .advanced-grid .container > div > .row > div:before {
+		          left: 10px;
+		          right: 10px;
+		          margin-top: -15px;
+		     }
+		     
+		     .responsive .footer-type-26 .footer .container > .row > div:before, 
+		     .responsive .footer-type-26 .footer .advanced-grid .container > div > .row > div:before {
+		          margin-top: -28px;
+		     }
+		
+		.responsive .footer .container > .row > div, 
+		.responsive .footer .advanced-grid .container > div > .row > div {
+		     padding-left: 10px;
+		}
+		
+		     .responsive .footer .container > .row.footer-blocks-top.type-2 {
+		          padding-top: 30px;
+		     }
+		
+		     .responsive .footer .container > .row.footer-blocks-top.type-2 > div {
+		          padding-top: 0px;
+		     }
+		
+		.responsive .footer-blocks-top {
+		     padding-bottom: 10px;
+		} 
+		
+		     .responsive .footer-blocks-top > div {
+		          text-align: left;
+		     }
+		
+		     .responsive .footer-blocks-top .footer-block {
+		          padding-bottom: 10px;
+		          padding-top: 0px;
+		          padding-left: 0px !important;
+		     }
+		
+		     .responsive .footer-blocks-top .footer-button {
+		          margin-top: 15px;
+		     }
+		
+		.responsive .footer-blocks-bottom .footer-block {
+		     text-align: left;
+		}
+		
+		.responsive .advanced-grid-products .product .right {
+		     margin-left: 1%;
+		}
+		
+		     .responsive .antique-products .advanced-grid-products .product .right {
+		          margin-left: 6%;
+		     }
+		
+		.responsive .footer-type-4 .footer .container > .row > div:before,
+		.responsive .footer-type-4 .footer .advanced-grid .container > div > .row > div:before,
+		.responsive .footer-type-14 .footer .container > .row > div:before,
+		.responsive .footer-type-14 .footer .advanced-grid .container > div > .row > div:before,
+		.responsive .footer-type-27 .footer .container > .row > div:before,
+		.responsive .footer-type-27 .footer .advanced-grid .container > div > .row > div:before,
+		.responsive .footer-type-20 .footer .container > .row > div:before,
+		.responsive .footer-type-20 .footer .advanced-grid .container > div > .row > div:before,
+		.responsive .footer-type-8 .footer .container > .row > div:before,
+		.responsive .footer-type-8 .footer .advanced-grid .container > div > .row > div:before,
+		.responsive .footer-type-6 .footer .container > .row > div:before,
+		.responsive .footer-type-6 .footer .advanced-grid .container > div > .row > div:before {
+		     display: block;
+		}
+
+		     .responsive .footer-type-4 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-4 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		     .responsive .footer-type-14 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-14 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		     .responsive .footer-type-27 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-27 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		     .responsive .footer-type-20 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-20 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		     .responsive .footer-type-8 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-8 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		     .responsive .footer-type-6 .footer .container > .row > div:first-child:before,
+		     .responsive .footer-type-6 .footer .advanced-grid .container > div > .row > div:first-child:before  {
+		          display: none;
+		     }
+		     
+		     .responsive .footer-type-15 .footer .container > .row > div,
+		     .responsive .footer-type-15 .footer .advanced-grid .container > div > .row > div {
+		          padding-top: 0px;
+		          padding-bottom: 17px;
+		     }
+		     
+		     .responsive .footer-type-20 .footer ul {
+		          padding-bottom: 0px;
+		     }
+		     
+		     .responsive .footer-type-15 .footer h4 {
+		          padding-top: 5px;
+		     }
+		     
+		     .responsive .footer-type-15 .footer .container > .row > div:first-child,
+		     .responsive .footer-type-15 .footer .advanced-grid .container > div > .row > div:first-child {
+		          padding-top: 30px;
+		     }
+		     
+		     .responsive .footer-type-13 .footer ul {
+		          padding-bottom: 10px;
+		     }
+		     
+		     .responsive .footer-type-13 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-13 .footer .container > .row > div {
+		          padding-top: 5px;
+		     }
+		     
+		          .responsive .footer-type-13 .footer .advanced-grid .container > div > .row:last-child > div,
+		          .responsive .footer-type-13 .footer .container > .row:last-child > div {
+		               padding-top: 30px;
+		          }
+		          
+		     .responsive .footer-type-24 .footer ul {
+		          padding-bottom: 10px;
+		     }
+		     
+		     .responsive .footer-type-24 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-24 .footer .container > .row > div {
+		          padding-top: 5px;
+		     }
+		     
+		     .responsive .footer-type-24 .footer .container > .row:first-child > div:first-child,
+		     .responsive .footer-type-24 .footer .advanced-grid .container > div > .row:first-child > div:first-child {
+		          padding-top: 30px;
+		     }
+		     
+		          .responsive .footer-type-24 .footer .advanced-grid .container > div > .row:last-child > div,
+		          .responsive .footer-type-24 .footer .container > .row:last-child > div {
+		               padding-top: 30px;
+		          }
+		          
+		     .responsive .footer-type-22 .footer ul {
+		          padding-bottom: 0px;
+		          margin-bottom: -5px;
+		     }
+		     
+		     .responsive .footer-type-22 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-22 .footer .container > .row > div {
+		          padding-top: 15px;
+		     }
+		     
+		          .responsive .footer-type-22 .footer .advanced-grid .container > div > .row:last-child > div,
+		          .responsive .footer-type-22 .footer .container > .row:last-child > div {
+		               padding-top: 30px;
+		               margin-top: 20px;
+		          }
+		          
+		     .responsive .footer-type-27 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-27 .footer .container > .row > div {
+		          padding-top: 25px;
+		          padding-bottom: 25px;
+		     }
+		          
+		     .responsive .footer-type-25 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-25 .footer .container > .row > div {
+		          padding-top: 25px;
+		          padding-bottom: 30px;
+		     }
+		     
+		          .responsive .footer-type-25 .footer .advanced-grid .container > div > .row > div:before,
+		          .responsive .footer-type-25 .footer .container > .row > div:before {
+		               display: block;
+		               margin-top: -30px;
+		          }
+		          
+		               .responsive .footer-type-25 .footer .advanced-grid .container > div > .row > div:first-child:before,
+		               .responsive .footer-type-25 .footer .container > .row > div:first-child:before {
+		                    display: none;
+		               }
+		          
+		     .responsive .footer-type-18 .footer ul {
+		          padding-bottom: 0px;
+		          margin-bottom: -10px;
+		     }
+		     
+		     .responsive .footer-type-18 .footer .advanced-grid .container > div > .row > div,
+		     .responsive .footer-type-18 .footer .container > .row > div {
+		          padding-bottom: 40px;
+		          padding-top: 0px;
+		     }
+		     
+		          .responsive .footer-type-18 .footer .advanced-grid .container > div > .row:last-child,
+		          .responsive .footer-type-18 .footer .container > .row:last-child {
+		               margin-top: 5px;
+		          }
+		     
+		          .responsive .footer-type-18 .footer .advanced-grid .container > div > .row:last-child > div,
+		          .responsive .footer-type-18 .footer .container > .row:last-child > div {
+		               padding-top: 30px;
+		               padding-bottom: 27px;
+		          }
+		
+	/* @end */
+	
+	/* @group Copyright
+	------------------*/
+	
+	.responsive .copyright {
+	}
+	
+		.responsive .copyright ul {
+			padding: 5px 0px 10px 0px;
+			float: none;
+		}
+		
+	/* @end */
+		
+	/* @group Cloud zoom */
+	
+	.responsive .zoomContainer {
+		display: none !important;
+	}
+	
+	/* @end */
+	
+	/* @group Banners */
+	
+	.responsive .banner {
+		margin-top: 30px;
+	}
+	
+	/* @end */
+	
+	/* @group Quickview */
+	
+	.responsive #quickview .thumbnails {
+		margin-bottom: 0px;
+	}
+	
+	/* @end */
+	
+	/* @group Modal */
+	
+	.responsive .modal-footer {
+		text-align: center;
+	}
+	
+		.responsive .button-continue-shopping {
+			display: inline-block;
+			float: none;
+		}
+		
+		.responsive .button-checkout {
+			display: inline-block;
+			float: none;
+		}
+		
+	/* @end */
+
+     /* @group Computer3 Banners */
+     
+     .responsive .computer3-banners .row > div {
+          border: none;
+          border-top: 1px solid #dadada;
+          clear: both;
+     }
+     
+          .responsive .computer3-banners .row > div:first-child {
+               border: none;
+          }
+     
+     /* @end */
+     
+     /* @group Jewelry banners*/
+     
+     .responsive .jewelry-banners > div:before {
+          bottom: auto;
+          right: 0;
+          width: auto;
+          height: 1px;
+     }
+     
+     /* @end */
+     
+     /* @group Jewelry black banners*/
+     
+     .responsive .jewelryblack-banners .row > div:before {
+          bottom: auto;
+          right: 0;
+          width: auto;
+          height: 1px;
+     }
+     
+     /* @end */
+     
+     /* @group Barber Footer */
+     
+     .responsive #main .barber-footer-padding-left .container > div {
+          padding-left: 0% !important;
+     }
+     
+     /* @end */
+
+     /* @group Ceramica newsletter */
+     
+     .responsive .ceramica-newsletter-margin-top-75 {
+          margin-top: 45px !important;
+     }
+     
+     /* @end */
+
+     /* @group Header type 5 */
+     
+     .responsive #main .header-type-5 #top .search_form {
+         display: block;
+         margin: 0px auto;
+         margin-top: 20px;
+         width: 100%;
+     }
+     
+     /* @end */
+
+     /* @group Wine footer */
+     
+     .responsive .mobile-padding-top-0 .container > div {
+          padding-top: 0px !important;
+     }
+     
+          .responsive .wine-about-us {
+               padding: 45px 0px 35px 0px;
+          }
+          
+          .responsive .wine-about-us .footer-blocks-top {
+               padding-bottom: 0px;
+          }
+          
+          .responsive .wine-about-us .footer-blocks-top {
+               padding-top: 12px;
+          }
+     
+     /* @end */
+
+     /* @group Champange */
+     
+     .responsive .champange {
+          padding: 0px;
+          position: relative;
+     }
+     
+          .responsive .champange .heading {
+               padding-top: 40px;
+          }
+          
+          
+     /* @end */
+
+     /* @group Games banners */
+     
+     .responsive .games-banners {
+          position: relative;
+     }
+     
+     /* @end */
+
+     /* @group Slider align top */
+     
+     .responsive .slider-align-top #top {
+          position: relative;
+          width: 100%;
+     }
+     
+     /* @end */
+
+     /* @group Games big sale */
+     
+     .responsive .games-big-sale {
+          padding-left: 30px;
+          padding-right: 30px;
+          text-align: center;
+          margin-top: 35px;   
+     }
+     
+     /* @end */
+     
+     /* @group Header margin top 80px */
+     
+     .responsive .header-margin-top-80 header {
+          margin-top: 30px;
+     }
+     
+     /* @end */
+     
+     .responsive .responsive-margin-top-30 {
+          margin-top: 30px !important;
+     }
+     
+     .responsive .responsive-margin-top-50 {
+          margin-top: 50px !important;
+     }
+     
+     .responsive .responsive-margin-top-60 {
+          margin-top: 60px !important;
+     }
+     
+     .responsive .responsive-margin-top-40 {
+          margin-top: 40px !important;
+     }
+     
+     .responsive .responsive-margin-top-45 {
+          margin-top: 45px !important;
+     }
+     
+     .responsive .responsive-margin-top-10 {
+          margin-top: 10px !important;
+     }
+     
+     .responsive .responsive-margin-top-15 {
+          margin-top: 15px !important;
+     }
+     
+     .responsive .responsive-margin-top-0 {
+          margin-top: 0px !important;
+     }
+     
+     .responsive .responsive-margin-bottom-0 {
+          margin-bottom: 0px !important;
+     }
+     
+     .responsive .responsive-margin-bottom-15 {
+          margin-bottom: 15px !important;
+     }
+     
+     .responsive .responsive-margin-bottom-10 {
+          margin-bottom: 10px !important;
+     }
+
+     /* @group Product Page Type 2 */
+     
+     .responsive .product-page-type-2 .standard-body .full-width .product-info .product-center:before {
+          left: 10px;
+          right: 10px;
+     }
+     
+     /* @end */
+     
+     /* @group Computer4 Parallax */
+     
+     .responsive .computer4-parallax {
+          padding-left: 0px;
+     }
+     
+     /* @end */
+     
+     /* @group Computer4 Contact */
+     
+     .responsive .computer4-contact { 
+           padding-top: 0px; 
+     }
+     
+     /* @end */
+
+     /* @group Furniture footer */
+     
+     .responsive .furniture-contact .logo {
+          padding: 40px 0px 0px 0px;
+     }
+     
+     .responsive .furniture-contact .row {
+          padding-bottom: 0;
+     }
+     
+     .responsive .furniture-footer-padding-left .container > div {
+          padding-left: 0 !important;
+          text-align: center;
+     }
+     
+     /* @end */
+     
+     /* @group Furniture customer service */
+     
+     .furniture-customer-service {
+          padding-left: 0;
+          padding-bottom: 110px;
+          padding-top: 110px;
+     }
+
+     /* @end */
+
+     /* @group Furniture box */
+     
+     .responsive .furniture-box {
+          padding-top: 30px;
+          margin-bottom: -30px;
+          position: relative;
+     }
+     
+     /* @end */
+     
+     /* @group Furniture why our products? */
+     
+     .responsive .furniture-why-our-products {
+          padding: 0px 0px 56px 0px;
+     }
+     
+          .responsive .furniture-why-our-products .heading {
+               padding-top: 75px;
+          }
+     
+     /* @end */
+
+     /* @group Heading Toys */
+     
+     .responsive .toys-heading {
+          background-image: none !important;
+          margin-top: 30px;
+     }
+     
+     /* @end */
+     
+     /* @group Military banners */
+     
+     .responsive .military-banners {
+          position: relative;
+          bottom: 30px;
+     }
+     
+     /* @end */
+     
+     /* @group Medic contact */
+     
+     .responsive .medic-contact {
+          padding-top: 3px;
+          padding-bottom: 5px;
+     }
+     
+          .responsive .medic-contact .row > div {
+               padding-left: 10px !important;
+          }
+
+     /* @end */
+     
+     /* @group Medic Top Bar */
+     
+     .responsive .medic-top-bar {
+          padding: 6px 0px 5px 0px;
+     }
+     
+     
+          .responsive .medic-top-bar:before {
+               display: none;
+          }
+          
+          .responsive .medic-top-bar > div {
+               text-align: center;
+               background: none;
+          }
+          
+          .responsive .medic-top-bar .background {
+               padding: 1px 15px 1px 15px;
+               background: none;
+          }
+          
+               .responsive .medic-top-bar .background:before {
+                    display: none;
+               }
+     
+     /* @end */
+     
+     /* @group stationery Top Bar */
+     
+     .responsive .stationery-top-bar {
+          padding: 6px 0px 5px 0px;
+     }
+     
+     
+          .responsive .stationery-top-bar:before {
+               display: none;
+          }
+          
+          .responsive .stationery-top-bar > div {
+               text-align: center;
+               background: none;
+          }
+          
+          .responsive .stationery-top-bar .background {
+               padding: 1px 15px 1px 15px;
+               background: none;
+          }
+          
+               .responsive .stationery-top-bar .background:before {
+                    display: none;
+               }
+     
+     /* @end */
+
+     /* @group Medic phone */
+     
+     .responsive .medic-phone {
+          margin: 22px auto 5px auto;
+          display: block !important;
+     }
+     
+     /* @end */
+     
+     /* @group Medic products parallax */
+     
+     .medic-products {
+          
+     }
+     
+          .responsive .medic-products .container > div {
+               padding-bottom: 40px !important;
+          }
+
+          .responsive .medic-products .box .box-content {
+               padding-left: 9px;
+               padding-right: 9px;
+          }
+     
+     /* @end */
+     
+     /* @group Medic check all specialties */
+     
+     .responsive .check-all-specialties {
+          margin: 30px 0px 0px 0px;
+     }
+     
+     /* @end */
+
+     /* @group Header Type 9 */
+     
+     .responsive .header-type-9 .overflow-currency-language {
+          text-align: center;
+     }
+     
+     .responsive .header-type-9 .overflow-header-center {
+          margin: 0px;
+          text-align: center;
+     }
+     
+     .responsive .header-type-9 #top .search_form {
+          margin-left: auto;
+          margin-right: auto;
+     }
+     
+     .responsive .header-type-9 #top #header-center .menu li {
+          padding: 0px 7px;
+     }
+     
+     /* @end */
+     
+     /* @group Fashionsimple Top contact */
+     
+     .fashionsimple-top-contact {
+          display: block;
+          padding: 30px 0px 0px 0px;
+          text-align: center;
+     }
+     
+     /* @end */
+     
+     /* @group Fashionsimple Page Title */
+     
+     .responsive .fashionsimple-page-title {
+          padding: 35px 0px 35px 0px;
+     }
+     
+          .responsive .fashionsimple-page-title h3 {
+               font-size: 50px;
+               line-height: 40px;
+          }
+          
+          .responsive .fashionsimple-page-title h4 {
+               font-size: 25px;
+          }
+     
+     /* @end */
+     
+     /* @group Fashion2 Footer Info */
+     
+     .responsive .fashion2-footer-info {
+          padding: 15px 0px 20px 0px;
+     }
+     
+     /* @end */
+     
+     /* @group Fashion2 Parallax */
+     
+     .responsive .fashion2-parallax {
+          padding: 103px 0px 120px 0px;
+     }
+     
+          .responsive .fashion2-parallax p {
+               font-size: 75px;
+          }
+
+     /* @end */
+     
+     /* @group Games3 big sale */
+     
+     .responsive .games3-big-sale {
+          padding: 40px 0px 30px 0px;
+          text-align: center;
+     }
+     
+     /* @end */
+     
+     /* @group Fashion3 Column */
+     
+     .responsive .fashion3-columns {
+          
+     }
+     
+          .responsive .fashion3-columns > div {
+               text-align: center;
+               padding-top: 59px;
+               padding-bottom: 70px;
+          }
+          
+               .responsive .fashion3-columns > div:before {
+                    top: 0;
+                    bottom: auto;
+                    left: -20px;
+                    right: -20px;
+                    width: auto;
+                    height: 1px;
+                    background: url(../img/bg-megamenu.png) top left repeat-x;
+               }
+               
+     
+     /* @end */
+     
+     /* @group Fashion3 Footer */
+     
+     .responsive .fashion3-footer {
+          
+     }
+
+          .responsive .fashion3-footer .contact > div {
+               padding-left: 10px !important;
+               text-align: center;
+          }
+          
+          .responsive .fashion3-footer ul.social-icons {
+               padding: 39px 0px 0px 0px;
+          }
+
+          .responsive .fashion3-footer ul.links {
+               padding: 46px 0px 2px 0px;
+          }
+          
+     /* @end */
+     
+     /* @group Fashion3 Products */
+     
+     .responsive .fashion3-products {
+          
+     }
+     
+          .responsive .fashion3-products-heading {
+               left: 0 !important;
+               right: 0 !important;
+               position: relative;
+               display: block;
+               margin-left: -20px;
+               margin-right: -20px;
+               width: auto;
+          }
+
+     /* @end */
+     
+     /* @group Cameras Top Bar */
+     
+     .responsive .cameras-top-bar {
+     }
+     
+          .responsive .cameras-top-bar > div {
+               text-align: center;
+          }
+     
+          .responsive .cameras-top-bar > div:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Cameras columns */
+     
+     .responsive .cameras-columns {
+          margin: 30px 0px 0px 0px;
+     }
+     
+          .responsive .cameras-columns .row > div {
+          }
+          
+               .responsive .cameras-columns .row > div:before {
+                    bottom: auto;
+                    top: auto;
+                    margin: 0px;
+                    left: 0px;
+                    right: 0px;
+                    width: auto;
+                    height: 1px;
+                    margin-top: -33px;
+               }
+
+                    
+               .responsive .cameras-columns img {
+                    margin-left: 23px !important;
+               }
+     
+     /* @end */
+     
+     /* @group Grocery products */
+
+     .responsive #main .products-grid-with-carousel {
+          padding: 0px 10px 0px 10px !important;
+     }
+     
+     /* @end */
+     
+     /* @group Grocery Top Bar */
+     
+     .responsive .grocery-top-bar {
+          padding: 6px 0px 7px 0px;
+     }
+     
+     
+          .responsive .grocery-top-bar:before {
+               display: none;
+          }
+          
+          .responsive .grocery-top-bar > div {
+               text-align: center;
+               background: none;
+          }
+          
+          .responsive .grocery-top-bar .background {
+               padding: 1px 15px 1px 15px;
+               background: none;
+          }
+          
+               .responsive .grocery-top-bar .background:before {
+                    display: none;
+               }
+     
+     /* @end */
+
+     /* @group Footer Type 11 */
+     
+     .responsive .footer-type-11 .footer .container > .row:nth-last-child(2) > div:before, 
+     .responsive .footer-type-11 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div:before {
+          top: auto;
+          left: 0;
+          right: 0;
+          width: auto;
+          height: 1px;
+          bottom: auto;
+          margin-top: -18px;
+     }
+     
+     .responsive .footer-type-11 .footer .container > .row:nth-last-child(2) > div, 
+     .responsive .footer-type-11 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div {
+          padding-left: 25px;
+          padding-right: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Footer Type 19 */
+     
+     .responsive .footer-type-19 .footer .container > .row:nth-last-child(2) > div:before, 
+     .responsive .footer-type-19 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div:before {
+          top: auto;
+          left: 0;
+          right: 0;
+          width: auto;
+          height: 1px;
+          bottom: auto;
+          margin-top: -25px;
+     }
+     
+     .responsive .footer-type-19 .footer .container > .row:nth-last-child(2) > div, 
+     .responsive .footer-type-19 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div {
+          padding-left: 20px;
+          padding-right: 20px;
+          padding-top: 25px;
+          padding-bottom: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Footer Type 16 */
+     
+     .responsive .footer-type-16 .footer .background {
+          margin-top: -30px;
+     }
+     
+     .responsive .footer-type-16 .footer .container > .row:nth-last-child(2) > div:before, 
+     .responsive .footer-type-16 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div:before {
+          top: auto;
+          left: 0;
+          right: 0;
+          width: auto;
+          height: 1px;
+          bottom: auto;
+          margin-top: -18px;
+     }
+     
+     .responsive .footer-type-16 .footer .container > .row:nth-last-child(2) > div, 
+     .responsive .footer-type-16 .footer .advanced-grid .container > div > .row:nth-last-child(2) > div {
+          padding-left: 0px;
+          padding-right: 0px;
+     }
+     
+     /* @end */
+     
+     /* @group Footer Block Grocery */
+     
+     .responsive .footer-block-grocery {
+          padding: 10px 0px 15px 0px;
+     }
+
+     /* @end */
+
+     /* @group Header Type 12 */
+     
+     .responsive .header-type-12 #top .search_form {
+          display: block;
+          margin-right: 0px;
+          margin-left: 0px;
+          width: 100%;
+     }
+     
+          .responsive .header-type-12 #top .search_form .search-cat {
+               width: 331px;
+          }
+
+          .responsive .header-type-12 #top .search_form .overflow-input {
+               width: 407px;
+          }
+     
+     /* @end */
+     
+     /* @group Market columns */
+
+          .responsive .market-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .market-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #d9d9d9;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Toys2 columns */
+
+          .responsive .toys2-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .toys2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #dcdfe2;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Stationery2 columns */
+
+          .responsive .stationery2-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .stationery2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e5e5e5;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Header Type 13 */
+
+     .responsive .header-type-13 .search-cat {
+          width: 650px;
+     }
+               
+     .responsive .header-type-13 .overflow-input {
+          width: 300px;
+     }
+
+     /* @end */
+     
+     /* @group Market about us */
+     
+     .responsive .market-about-us {
+          padding-top: 5px;
+     }
+
+     /* @end */
+
+     /* @group Footer Type 12 */
+     
+     .responsive .footer-type-12 .footer h4 {
+          padding-top: 10px;
+     }
+     
+     /* @end */
+     
+     /* @group Footer Type 17 */
+     
+     .responsive .footer-type-17 .footer h4 {
+          padding-top: 10px;
+     }
+     
+     .responsive .footer-type-17 .footer ul {
+          padding-bottom: 0px;
+     }
+     
+     /* @end */
+     
+     /* @group Market contact */
+     
+     .responsive .market-contact {
+          
+     }
+     
+          .responsive .market-contact .row > div {
+          }
+          
+               .responsive .market-contact .row > div:before {
+                    width: auto;
+                    content: '';
+                    left: -10px;
+                    right: -10px;
+                    top: auto;
+                    bottom: auto;
+                    background: #e5e5e5;
+                    position: absolute;
+                    margin: 0px;
+                    height: 1px;
+               }
+     /* @end */
+     
+     /* @group Market products */
+     
+     .responsive .market-products {
+     }
+
+          .responsive .market-products .col-sm-9 {
+               padding-left: 10px !important;
+               margin-left: 0px;
+               padding-right: 10px !important;
+          }
+          
+               .responsive .market-products .col-sm-9:before {
+                    top: -1px;
+                    left: 10px;
+                    right: 10px;
+                    bottom: auto;
+                    width: auto;
+                    height: 1px;
+               }
+          
+               .responsive .market-products .col-sm-9 .box {
+                    padding: 0px;
+               }
+               
+     /* @end */
+     
+     /* @group Architecture categories */
+     
+     .responsive .architecture-categories {
+          position: relative;
+     }
+     
+          .responsive .architecture-categories > div {
+               position: relative;
+          }
+
+               .responsive .architecture-categories > div:before {
+                    width: auto;
+                    top: 0;
+                    left: -20px;
+                    right: -20px;
+                    height: 1px;
+                    margin-left: 0px;
+               }
+     
+     /* @end */
+     
+     /* @group Architecture products */
+     
+     .responsive .architecture-products {
+          padding: 0px;
+          position: relative;
+          margin-top: -30px;
+     }
+     
+          .responsive .architecture-products .product {
+               margin-top: 30px;
+          }
+          
+               .responsive .architecture-products .product .left {
+                    display: block;
+                    width: 100%;
+               }
+               
+                    .responsive .architecture-products .product .left .image {
+                         margin: -1px;
+                    }
+               
+               .responsive .architecture-products .product .right {
+                    display: block;
+                    width: auto;
+                    padding: 25px;
+               }
+     
+     /* @end */
+     
+     .responsive .mobile-background-none > div {
+          background: none !important;
+     }
+     
+     /* @group Architecture individual project */
+     
+     .responsive .architecture-individual-project {
+          padding: 25px 0px 35px 0px;
+     }
+     
+          .responsive .architecture-individual-project h5 {
+               font-size: 20px;
+          }
+          
+          .responsive .architecture-individual-project h6 {
+               font-size: 20px;
+          }
+     
+     /* @end */
+     
+     /* @group Architecture contact */
+     
+     .responsive .architecture-contact {
+     }
+     
+          .responsive .architecture-contact .row > div {
+               padding-left: 10px !important;
+          }
+
+          .responsive #main .architecture-contact p {
+               padding: 21px 0px 0px 0px;
+               font-size: 17px;
+          }
+     
+     /* @end */
+     
+     /* @group stationery contact */
+     
+     .responsive .stationery-contact {
+     }
+     
+          .responsive .stationery-contact .row > div {
+               padding-left: 10px !important;
+          }
+
+          .responsive #main .stationery-contact p {
+               padding: 21px 0px 0px 0px;
+               font-size: 17px;
+          }
+     
+     /* @end */
+     
+     /* @group Header Type 14 */
+     
+     .responsive .header-type-14 .top-bar {
+          padding-bottom: 8px;
+     }
+     
+     .responsive .header-type-14 .welcome-text {
+          padding-top: 8px;
+     }
+     
+     .responsive .header-type-14 #top .dropdown {
+          margin: 3px 7px 0px 7px;
+     }
+     
+     .responsive .header-type-14 #top .top-bar .text-right {
+          text-align: center;
+     }
+     
+     .responsive .header-type-14 #top .top-bar form:before {
+          display: none;
+     }
+     
+     	.responsive .header-type-14 #top .search_form {
+     	     width: 140px;
+     	     margin-left: 0px;
+     	     margin-top: 10px;
+     	}
+     	
+     	     .responsive .header-type-14 #top .search_form:before {
+     	          display: none;
+     	     }
+     	
+     	.responsive .header-type-14 #top #cart_block {
+     	     margin-top: 10px;
+     	     margin-left: 24px;
+     	}
+     	
+     	     .responsive .header-type-14 #top #cart_block:before {
+     	          display: none;
+     	     }
+     	     
+     	.responsive .matrialarts-contact {
+     	     display: block;
+     	     text-align: center;
+     	     padding-right: 0px;
+     	     padding-top: 3px;
+     	}
+     	
+     	     .responsive .matrialarts-contact:before {
+     	          display: none;
+     	     }
+     	     
+     /* @end */
+
+     /* @group Columns matrial arts */
+     
+     .responsive .columns-matrialarts {
+          padding-top: 0px;
+          padding-bottom: 20px;
+     }
+     
+          .responsive .columns-matrialarts > div:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Matrialarts products tabs */
+     
+     .responsive .matrialarts-products-tabs {
+          
+     }
+     
+          .responsive .matrialarts-products-tabs .description {
+               padding-left: 0px;
+               padding-top: 18px;
+          }
+          
+          .responsive .matrialarts-products-tabs .select-tab {
+               padding-left: 0px;
+          }
+          
+     /* @end */
+     
+     /* @group Sport contact */
+     
+     .responsive .sport-contact {
+          position: relative;
+          margin-top: -20px;
+     }
+     
+          .responsive .sport-contact .row > div {
+               padding-left: 10px !important;
+          }
+
+     /* @end */
+     
+     /* @group Sport Newsletter */
+     
+     .responsive .sport-newsletter {
+     }
+     
+          .responsive .sport-newsletter .heading {
+               padding-left: 0;
+               font-size: 65px;
+               margin-top: -23px;
+               line-height: 1.2;
+          }
+          
+          .responsive .sport-newsletter .content-newsletter {
+               padding-left: 6px;
+               font-size: 30px;
+               line-height: 1.2;
+          }
+               
+               .responsive .sport-newsletter .content-newsletter p {
+                    padding: 0px 0px 0px 38px;    
+               }
+               
+          .responsive .sport-newsletter .inputs {
+               padding: 22px 0px 52px 10%;
+          }
+          
+               .responsive .sport-newsletter .inputs input {
+                    width: 180px;
+               }
+               
+     /* @end */
+     
+     /* @group Header Type 15 */
+     
+     .responsive .header-type-15 #top #header-left {
+          position: relative;
+     }
+     
+     .responsive .header-type-15 #top .logo {
+          padding-right: 0px;
+     }
+     
+          .responsive .header-type-15 #top .logo:before {
+               display: none;
+          }
+     
+     .responsive .header-type-15 #top .search_form {
+          display: block;
+          float: none;
+          margin: 25px auto 0px auto;
+          width: 100%;
+     }
+
+     /* @end */
+     
+     /* @group Cosmetics2 phone */
+     
+     .responsive .cosmetics2-phone {
+          margin: 22px auto 5px auto;
+          display: block !important;
+     }
+     
+     /* @end */
+     
+     /* @group Cosmetics2 contact */
+     
+     .responsive .cosmetics2-contact {
+          position: relative;
+          margin-top: -30px;
+     }
+     
+          .responsive .cosmetics2-contact .row > div {
+               padding-left: 10px !important;
+          }
+
+     /* @end */
+     
+     /* @group Cosmetics2 Top Bar */
+     
+     .responsive .cosmetics2-top-bar {
+          padding: 6px 0px 5px 0px;
+     }
+     
+          .responsive .cosmetics2-top-bar > div {
+               text-align: center;
+               background: none;
+          }
+          
+          .responsive .cosmetics2-top-bar .background {
+               padding: 1px 15px 1px 15px;
+               background: none;
+          }
+     
+     /* @end */
+     
+     /* @group Header Type 16 */
+     
+     .responsive .header-type-16 #top #header-left .menu {
+          padding: 20px 0px 0px 0px;
+     }
+     
+     .responsive .header-type-16 .overflow-currency-language {
+          text-align: center;
+     }
+
+     .responsive .header-type-16 #top #header-left .menu li {
+          padding: 0px 7px;
+     }
+     
+     .responsive .header-type-16 #top .dropdown {
+          margin-left: 12px;
+     }
+     
+     /* @end */
+     
+     /* @group Exclusive newsletter */
+     
+     .responsive .exclusive-newsletter {
+     }     
+     
+          .responsive .exclusive-newsletter > div {
+               position: relative;
+          }
+          
+          .responsive .exclusive-newsletter > div:nth-child(2):before {
+               content: '';
+               position: absolute;
+               top: 0;
+               bottom: auto;
+               width: auto;
+               left: 0;
+               right: 0;
+               background: rgba(0, 0, 0, .1);
+               margin-left: 0;
+               height: 1px;
+          }
+          
+          .responsive .exclusive-newsletter .heading p {
+               padding: 30px 0px 18px 0px;
+               text-align: center;
+          }
+          
+          .responsive .exclusive-newsletter .content-newsletter p {
+               padding: 28px 0px 0px 0px;
+               text-align: center;
+          }
+          
+          .responsive .exclusive-newsletter .inputs {
+               margin: 25px 0px 30px 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Exclusive footer columns */
+     
+     .responsive .exclusive-footer-columns {
+          padding-bottom: 10px;
+     }
+     
+          .responsive .exclusive-footer-columns .logo {
+               padding-top: 12px;
+          }
+     
+     /* @end */
+     
+     /* @group Exclusive banners */
+     
+     .responsive .exclusive-banners {
+     }
+     
+          .responsive .exclusive-banners .row > div:before {
+               content: '';
+               position: absolute;
+               top: 0;
+               bottom: auto;
+               left: 10px;
+               right: 10px;
+               background: url(../img/bg-megamenu.png);
+               width: auto;
+               height: 1px;
+          }
+          
+          .responsive .exclusive-banners .row > div > div {
+               padding-left: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Header Type 17 */
+     
+     .responsive .header-type-17 #top #header-left .menu {
+          padding: 20px 0px 0px 0px;
+     }
+
+     .responsive .header-type-17 #top form:first-of-type {
+          margin-left: 0px;
+     }
+     
+     /* @end */
+     
+     /* @group Perfume newsletter */
+     
+     .responsive .perfume-newsletter {
+     	padding: 0px 0px 30px 0px;
+     }
+     
+     .responsive .perfume-newsletter .circle {
+          display: none;
+     }
+     
+     /* @end */
+     
+     /* @group Header Type 18 */
+     
+     .responsive .header-type-18 {
+          
+     }
+     
+          .responsive .header-type-18 .top-bar {
+               padding-top: 2px;
+          }
+     
+          .responsive .header-type-18 .top-bar .menu {
+               padding-top: 4px;
+          }
+     
+          .responsive .header-type-18 #top .logo {
+               padding-top: 25px;
+          }
+          
+          .responsive .header-type-18 #top .search_form {
+               width: 100% !important;
+               margin-right: auto;
+               margin-left: auto;
+               margin-top: 14px;
+          }
+          
+          .responsive .header-type-18 .top-bar .left {
+               display: block;
+               width: auto;
+               text-align: center;
+               padding-left: 12px;
+               float: none;
+          }
+          
+          .responsive .header-type-18 .top-bar .line {
+               display: none;
+          }
+          
+          .responsive .header-type-18 .top-bar .right {
+               display: block;
+               text-align: center;
+               width: auto;
+               float: none;
+               padding-left: 0px;
+          }    
+     
+     /* @end */
+     
+     /* @group Coffee Parallax */
+     
+     .responsive .coffee-parallax {
+          padding: 54px 0px 54px 0px;
+     }
+     
+          .coffee-parallax p {
+               font-size: 30px;
+               margin-top: -4px;
+          }
+     
+     /* @end */
+     
+     /* @group Footer Block Coffee */
+     
+     .responsive .footer-block-coffee {
+     }
+     
+          .responsive .footer-block-coffee:before {
+               display: none;
+          }
+               
+     .responsive .coffee-footer-blocks {
+     }
+               
+          .responsive .coffee-footer-blocks:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     .responsive .standard-body .header-type-13 .fixed .search_form {
+          margin-right: -10px;
+          margin-left: -10px;
+     }
+     
+     /* @group Carparts parallax */
+     
+     .responsive .carparts-parallax {
+          padding: 48px 0px 49px 0px;
+     }
+          
+          .responsive .carparts-parallax .heading2 {
+               font-size: 35px;
+          }
+          
+          .responsive .carparts-parallax .heading3 {
+               font-size: 40px;
+          }
+     
+     /* @end */
+
+     /* @group Header Type 19 */
+     
+     .responsive .header-type-19 .search_form_overflow {
+          display: block;
+          width: auto;
+     }
+     
+     .responsive .header-type-19 .shop-by-car {
+          border: none;
+          display: block;
+          min-width: 1px;
+          width: auto;
+          padding: 0px;
+     }
+     
+     .responsive .header-type-19 .shop-by-brands {
+          display: block;
+          border: none;
+          min-width: 1px;
+          width: auto;
+          border-top: 1px solid rgba(255, 255, 255, .1);
+          position: relative;
+          margin: 0px -20px -5px -20px;
+          padding: 0px 20px;
+     }
+     
+     /* @end */
+     
+     /* @group Market phone */
+     
+     .responsive .carparts-phone {
+          margin: -10px auto 0px auto;
+     }
+     
+     /* @end */
+     
+     /* @group Bakery steps */
+     
+     .responsive .bakery-steps {
+          
+     }
+     
+          .responsive .bakery-steps > div {
+          }
+          
+               .responsive .bakery-steps > div.first:before {
+                    display: none;
+               }
+          
+               .responsive .bakery-steps > div.second:before {
+                    display: none;
+               }
+               
+          .responsive .bakery-steps .circle {
+          }
+          
+               .responsive .bakery-steps .second .circle {
+                    margin-left: 0px;
+               }
+               
+               .responsive .bakery-steps .third .circle {
+                    margin-left: 0px;
+               }
+     /* @end */
+     
+     /* @group Header Type 20 */
+     
+     .responsive .header-type-20 #top .search_form {
+          width: 100% !important;
+          max-width: none;
+     }
+     
+     /* @end */
+     
+     .responsive #main .toys2-slider-button {
+          padding: 16px 25px 14px 25px !important;
+          font-size: 8px !important;
+     }
+     
+     /* @group Footer Block Toys2 */
+     
+     .responsive .footer-block-toys2 {
+     }
+     
+          .responsive .footer-block-toys2 {
+               padding-top: 10px;
+          }
+               
+               .responsive .footer-block-toys2 .footer-block-content p {
+                    font-size: 20px;
+                    
+               }
+               
+          .responsive .footer-blocks-top-toys2 .text-right {
+               text-align: left;
+               padding-top: 13px;
+          }
+     
+     /* @end */
+     
+     /* @group Box type 12 */
+          
+     .responsive .box-type-12 #main .box-content.products .product-grid {
+          padding-left: 9px;
+          padding-right: 9px;
+     }
+          
+          .responsive .box-type-12 .tab-content {
+               border: 1px solid rgba(0, 0, 0, .1);
+               border-radius: 4px;
+               -webkit-border-radius: 4px;
+               -moz-border-radius: 4px;
+               padding-left: 25px !important;
+               padding-right: 25px !important;
+          }
+               
+               .responsive .box-type-12 .filter-product .tab-content {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+               }
+          
+               .responsive .box-type-12 #main .tab-content .product-grid {
+                    padding-left: 9px;
+                    padding-right: 9px;
+               }
+               
+          .responsive .box-type-12 #accordion .panel-heading {
+               padding-left: 25px !important;
+          }
+
+          .responsive .box-type-12 #accordion .panel .panel-body {
+               padding-left: 25px !important;
+               padding-right: 25px !important;
+          }
+          
+          .responsive .box-type-12 #main .product-list {
+               padding: 0px;
+          }    
+          
+          .responsive .box-type-12 #main .center-column .product-grid {
+               padding-left: 9px;
+               padding-right: 9px;
+          } 
+     
+     /* @end */
+
+     /* @group Today deals toys2 */
+     
+     .responsive .today-deals-toys2-products .is-countdown {
+          margin-left: -25px;
+          margin-right: -25px;
+     }
+     
+     /* @end */
+     
+     /* @group Box type 13 */
+          
+     .responsive .box-type-13 #main .box-content.products .product-grid {
+          padding-left: 9px;
+          padding-right: 9px;
+     }
+          
+          .responsive .box-type-13 .tab-content {
+               padding-left: 25px !important;
+               padding-right: 25px !important;
+          }
+               
+               .responsive .box-type-13 .filter-product .tab-content {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+               }
+          
+               .responsive .box-type-13 #main .tab-content .product-grid {
+                    padding-left: 9px;
+                    padding-right: 9px;
+               }
+          
+          .responsive .box-type-13 #main .product-list {
+               padding: 0px;
+          }    
+          
+          .responsive .box-type-13 #main .center-column .product-grid {
+               padding-left: 9px;
+               padding-right: 9px;
+          } 
+     
+     /* @end */
+     
+     /* @group Cleaning columns */
+
+          .responsive .cleaning-columns .row > div {
+               padding: 14px 37px 17px 37px;
+          }
+     
+          .responsive .cleaning-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #dcdfe2;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Cleaning parallax */
+     
+     .responsive .cleaning-parallax {
+          padding: 70px 0px 70px 0px;
+     }
+     
+          .responsive .cleaning-parallax .second-heading {
+               font-size: 45px;
+          }
+
+     /* @end */
+     
+     /* @group Cleaning parallax2 */
+     
+     .responsive .cleaning-parallax2 {
+          padding: 60px 0px 60px 0px;
+     }
+     
+          .responsive .cleaning-parallax2 .second-heading {
+               font-size: 45px;
+          }
+
+     /* @end */
+
+     /* @group Flowers columns */
+     
+     .responsive .flowers-columns {
+          margin-top: 40px;
+     }
+
+          .responsive .flowers-columns .row > div {
+               padding: 14px 37px 17px 37px;
+          }
+     
+          .responsive .flowers-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e5e5e5;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Flowers parallax */
+     
+     .responsive .flowers-parallax {
+          padding: 57px 0px 50px 0px;
+     }
+     
+          .responsive .flowers-parallax .first-heading {
+               font-size: 25px;
+               line-height: 1;
+          }
+          
+          .responsive .flowers-parallax .second-heading {
+               font-size: 25px;
+               line-height: 1;
+          }
+
+     /* @end */
+     
+     /* @group Add to car flowers */
+     
+     .responsive #main .add-to-cart-flowers {
+          padding: 12px 25px 11px 25px !important;
+          font-size: 10px !important;
+     }
+     
+          .responsive .add-to-cart-flowers:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Flower product */
+     
+     .responsive .flower-product {
+          margin-bottom: 0px;
+     }
+
+          .responsive #main .flower-product .right .name {
+               padding: 20px 0px 0px 0px;
+          }
+
+     /* @end */
+     
+     /* @group Audio newsletter */
+     
+     .responsive .audio-newsletter {
+          padding-left: 30px;
+          padding-right: 30px;
+     }
+          
+          .responsive .audio-newsletter .inputs input {
+               width: 179px;
+          }
+     
+     /* @end */
+     
+     /* @group Audio product */
+     
+     .responsive .audio-product {
+          padding: 47px 0px 0px 0px;
+     }
+          
+          .responsive .audio-product .overflow-price-name {
+               padding-top: 29px;
+               padding-bottom: 29px;
+          }
+          
+               .responsive .audio-product .overflow-price-name .price {
+                    display: block;
+                    text-align: center;
+                    border: none;
+                    width: auto;
+                    padding: 15px 0px 0px 0px;
+                    height: auto;
+               }
+
+               
+               .responsive .audio-product .overflow-price-name .name {
+                    display: block;
+                    width: auto;
+                    text-align: center;
+                    padding: 15px 0px 0px 0px;
+               }
+
+               .responsive .audio-product .overflow-price-name .add-to-cart {
+                    display: block;
+                    width: auto;
+                    text-align: center;
+                    padding: 30px 0px 0px 0px;
+               }
+
+          .responsive .audio-product .image {
+               margin: 0px 0px -30px 0px;
+          }
+          
+     /* @end */
+     
+     /* @group Audio testimonial */
+     
+     .responsive .audio-testimonial {
+          margin: 54px 0px 55px 0;
+     }
+     
+     /* @end */
+     
+     /* @group Holidays contact */
+     
+     .responsive .holidays-contact {
+     }
+
+          .responsive .holidays-contact .button {
+               margin: 0px 30px 15px 0px;
+               float: none !important;
+          }
+          
+          .responsive .responsive-holidays-contact .container > div {
+               padding: 30px !important;
+          }
+          
+     /* @end */
+     
+     /* @group Product grid type 7 */
+
+          .responsive .product-grid-type-7 #main .product-grid:before,
+          .responsive .product-grid-type-7 #main .product-grid:after,
+          .responsive .product-grid-type-7 #main .product-grid .row:before,
+          .responsive .product-grid-type-7 #main .product-grid .row:after,
+          .responsive .product-grid-type-7 #main .product-grid .product:before,
+          .responsive .product-grid-type-7 #main .product-grid .product:after,
+          .responsive .product-grid-type-7 #main .product-grid .row > div .product:after,
+          .responsive .product-grid-type-7 #main .box-with-products .clear:after {
+               display: none !important;
+          }
+          
+     /* @end */
+
+     /* @group Header type 23 */
+     
+     .responsive .header-type-23 #top .logo {
+          padding-top: 25px;
+     }
+     
+     /* @end */
+     
+     /* @group Holidays phone */
+     
+     .responsive .holidays-phone:first-child {
+          margin-left: 0px;
+          padding-bottom: 0px;
+     }
+     
+     .responsive .holidays-phone {
+          display: inline-block;
+          vertical-align: top;
+          padding: 20px 15px 7px 15px;
+     }
+
+          .responsive .holidays-phone p {
+               padding: 1px 0px 0px 5px;
+               font-size: 25px;
+          }
+     
+     /* @end */
+     
+     /* @group Header Type 23 */
+     
+     .responsive .header-type-23 .top-bar {
+          padding-bottom: 10px;
+     }
+     
+     .responsive #main .header-type-23 #top #cart_block {
+          margin-bottom: -7px !important;
+     }
+     
+     .responsive #main .header-type-23 #top .account {
+          margin-bottom: -7px !important;
+     }
+     
+     .responsive #main .header-type-23 #top .account {
+          float: none;
+          display: inline-block;
+          margin-right: 10px !important;
+          margin-left: 10px !important;
+          vertical-align: top;
+     }
+     
+     .responsive .header-type-23 #top #cart_block {
+          float: none;
+          display: inline-block;
+          vertical-align: top;
+          padding: 0px;
+          margin: 0px 10px 0px 10px !important;
+     }
+          
+          .responsive .header-type-23 #top #cart_block:before {
+               display: none;
+          }
+
+     .responsive .header-type-23 #top .dropdown {
+          margin-right: 10px !important;
+          margin-left: 10px !important;
+     }
+     
+     .responsive .header-type-23 .top-bar form:before {
+          display: none !important;
+     }
+     
+          .header-type-23 .top-bar form:first-of-type:before {
+               display: none !important;
+          }
+          
+          .responsive .header-type-23 .top-bar form {
+               padding-left: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Product list type 4 */
+     
+     .responsive .product-list-type-4 .product-list {
+     }
+          
+          .responsive .product-list-type-4 .product-list > div {
+          }
+          
+               .responsive .product-list-type-4 .product-list > div .row > div {
+                    width: 100% !important;
+                    text-align: left;
+               }
+               
+               .responsive .product-list-type-4 .product-list > div .name-actions .name {
+                    padding: 49px 25px 0px 25px;
+               }
+                    
+               .responsive .product-list-type-4 .product-list > div .name-actions .brand {
+                    padding: 1px 25px 0px 25px;
+               }
+               
+               .responsive .product-list-type-4 .product-list > div .name-actions .price {
+                    padding: 10px 25px 0px 25px;
+               }
+               
+               .responsive .product-list-type-4 .product-list > div .name-actions > ul {
+                    padding: 18px 25px 0px 25px;
+               }
+               
+               .responsive .product-list-type-4 .product-list .description {
+                    padding: 0px 25px 0px 25px;
+               }
+               
+               .responsive .product-list-type-4 .product-list .desc {
+                    padding-top: 47px;
+                    padding-bottom: 30px;
+               }
+               
+                    .responsive .product-list-type-4 .product-list .desc:before {
+                         display: none;
+                    }
+     
+     /* @end */
+     
+     /* @group Sportwinter Newsletter */
+     
+     .responsive .sportwinter-newsletter {
+          padding: 0px 25px 24px 25px;
+          text-align: center;
+     }
+     
+          .responsive .sportwinter-newsletter .heading {
+               padding-top: 30px;
+          }
+
+          .responsive .sportwinter-newsletter .inputs {
+               text-align: center;
+               padding-top: 6px;
+          }
+     
+     /* @end */
+     
+     /* @group Sportwinter big sale */
+     
+     .responsive .sportwinter-big-sale {
+          padding-left: 0px;
+     }
+     
+          .responsive .sportwinter-big-sale .first-heading {
+               font-size: 35px;
+               line-height: 45px;
+          }
+          
+          .responsive .sportwinter-big-sale .second-heading {
+               font-size: 35px;
+               line-height: 45px;
+          }
+     
+     /* @end */
+
+     /* @group Footer type 21 */
+     
+     .responsive .footer-type-21 .footer .container > .row > div:before,
+     .responsive .footer-type-21 .footer .advanced-grid .container > div > .row > div:before {
+     }
+     
+          .responsive .footer-type-21 .footer .container > .row > div:first-child:before,
+          .responsive .footer-type-21 .footer .advanced-grid .container > div > .row > div:first-child:before {
+               display: none !important;
+          }
+
+          .responsive .footer-type-21 .footer .container > .row > div:last-child:after,
+          .responsive .footer-type-21 .footer .advanced-grid .container > div > .row > div:last-child:after {
+               display: none !important;
+          }
+     
+     /* @end */
+     
+     /* @group Add to cart books */
+     
+     .responsive #main .add-to-cart-books {
+          padding: 7px 10px 6px 10px !important;
+          font-size: 6px !important;
+     }
+     
+          .responsive .add-to-cart-books:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Books contact */
+     
+     .responsive .books-contact {
+          padding-bottom: 2px;
+          padding-top: 15px;
+     }
+
+     /* @end */
+     
+     /* @group News */
+     
+     .responsive .news .media-body .date-published {
+          padding-top: 18px;
+     }
+                    
+     .responsive .news .media-body h5 {
+          padding-bottom: 20px;
+          margin: 0px;
+          font-size: 14px;
+          line-height: 18px;
+     }
+     
+     /* @end */
+     
+     /* @group News V2 */
+     
+     .responsive .news.v2 .media-body h5 {
+          padding-bottom: 18px;
+     }
+          
+          .responsive .news.v2 .media-body h5 a {
+               line-height: 18px;
+          }
+     
+     /* @end */
+     
+     
+     /* @group Medic news */
+     
+     .responsive .medic-news {
+     }
+     
+          .responsive .medic-news > div:before {
+               content: '';
+               position: absolute;
+               top: auto;
+               bottom: auto;
+               left: -20px;
+               right: -20px;
+               width: auto;
+               height: 1px;
+               margin: 0px;
+          }
+
+     /* @end */
+     
+     /* @group Wine news */
+     
+     .responsive .wine-news {
+     }
+     
+          .responsive .wine-news .media {
+               padding-top: 20px;
+               padding-bottom: 20px;
+          }
+     
+          .responsive .wine-news > div:before {
+               content: '';
+               position: absolute;
+               top: auto;
+               bottom: auto;
+               left: 10px;
+               right: 10px;
+               width: auto;
+               height: 1px;
+               margin: 0px;
+          }
+
+     /* @end */
+     
+     /* @group Shoes parallax */
+     
+     .responsive .shoes-parallax {
+          padding: 200px 0px 172px 0px;
+     }
+
+     /* @end */
+     
+     /* @group Shoes2 columns */
+
+          .responsive .shoes2-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .shoes2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: rgba(0, 0, 0, .1);
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Shoes2 contact */
+     
+     .responsive .shoes2-contact {
+          padding-bottom: 2px;
+          padding-top: 15px;
+     }
+
+     /* @end */
+     
+     /* @group Add to cart shoes2 */
+     
+     .responsive #main .button-shoes2-add-to-cart {
+          padding: 10px 20px 8px 20px !important;
+          font-size: 9px !important;
+     }
+     
+          .responsive .button-shoes2-add-to-cart:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Add to cart petshop */
+     
+     .responsive #main .button-petshop-add-to-cart {
+          padding: 10px 20px 8px 20px !important;
+          font-size: 9px !important;
+     }
+     
+          .responsive .button-petshop-add-to-cart:before {
+               display: none;
+          }
+     
+     /* @end */
+     
+     /* @group Shoes3 columns */
+
+          .responsive .shoes3-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .shoes3-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e2e2e2;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Carparts2 columns */
+
+          .responsive .carparts2-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .carparts2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e0e0e0;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Footer Block Shoes3 */
+     
+     .responsive .footer-blocks-top-shoes3 {
+          padding-top: 12px;
+     }
+     
+     .responsive .footer-blocks-top-shoes3 > div {
+          text-align: left;
+     }
+
+          .responsive .footer-blocks-top-shoes3 .button {
+               margin: 12px 0px 0px 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Shoes3 newsletter */
+
+     .responsive .shoes3-newsletter {
+          padding: 25px 25px 25px 25px;
+     }
+          
+          .responsive .shoes3-newsletter .inputs {
+               float: none;
+               padding-left: 0px;
+               margin: 0px auto;
+               padding-top: 19px;
+          }
+          
+          .responsive .shoes3-newsletter .heading {
+               float: none;
+               padding-right: 0px;
+          }
+
+          .responsive .shoes3-newsletter .strip-line {
+               display: none;
+          }
+          
+     /* @end */
+     
+     /* @group Computer8 newsletter */
+
+     .responsive .computer8-newsletter {
+          padding: 25px 0px 25px 0px;
+     }
+          
+          .responsive .computer8-newsletter .inputs {
+               float: none;
+               padding-left: 0px;
+               margin: 0px auto;
+               padding-top: 19px;
+          }
+          
+          .responsive .computer8-newsletter .heading {
+               float: none;
+               padding-right: 0px;
+          }
+
+          .responsive .computer8-newsletter .strip-line {
+               display: none;
+          }
+          
+     /* @end */
+     
+     /* @group Lingerie parallax */
+     
+     .responsive .lingerie-parallax {
+          padding-left: 45%;
+     }
+
+     /* @end */
+     
+     /* @group Lingerie newsletter */
+     
+     .responsive #main .lingerie-newsletter {
+          padding-top: 0px;
+     }
+     
+     .responsive #main .lingerie-newsletter .first-heading {
+          padding-top: 23px;
+     }
+     
+     /* @end */
+     
+     /* @group Lingerie free shipping */
+     
+     .responsive .lingerie-free-shipping {     
+          border: none;
+          padding-right: 0px;
+     }
+
+          .responsive .lingerie-free-shipping:before {
+               right: -1000px;
+          }
+     
+     /* @end */
+     
+     /* @group Header type 26 */
+     
+     .responsive .header-type-26 {
+          
+     }
+          
+          .responsive .header-type-26 #top .logo {
+               padding-top: 25px;
+          }
+     
+          .responsive .header-type-26 ul.menu {
+               padding: 28px 0px 0px 0px;
+               margin: 0px;
+               list-style: none;
+          }
+          
+               .responsive .header-type-26 ul.menu li {
+                    padding: 0px 8px 0px 8px;
+               }
+               
+                    .responsive .header-type-26 #header-right ul.menu li {
+                         padding: 0px 8px 0px 8px;
+                    }
+                    
+          .responsive .header-type-26 .overflow-currency-cart {
+               margin-left: -30px;
+               padding-top: 22px;
+               border: none;
+          }
+          
+               .responsive .header-type-26 .overflow-currency-cart:before {
+                    left: -1000px;
+               }
+               
+               .responsive .header-type-26 .overflow-currency-cart > form:first-of-type {
+                    border: none;
+               }
+     
+     /* @end */
+     
+     /* @group Footer Block Lingerie2 */
+     
+     .responsive .footer-blocks-top-lingerie2 {
+          padding-top: 2px;
+     }
+     
+     .responsive .footer-blocks-top-lingerie2 > div {
+          text-align: left;
+     }
+
+          .responsive .footer-blocks-top-lingerie2 .button {
+               margin: 12px 0px 0px 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Lingerie2 columns */
+
+          .responsive .lingerie2-columns .row > div {
+               padding: 15px 37px 16px 37px;
+          }
+     
+          .responsive .lingerie2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e0e0e0;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Category Wall 2 */
+     
+     .responsive .category-wall2 {
+          margin-top: 30px;
+     }
+     
+          .responsive .category-wall2-megamenu {
+               margin: -20px -25px;
+          }
+
+          .responsive .category-wall2 .row:before {
+               display: none;
+          }
+          
+               .responsive .category-wall2 .row > div {
+                    position: relative;
+                    padding: 0px 15px;
+                    margin: 0px !important;
+                    border: none !important;
+               }
+               
+                    .responsive .category-wall2-megamenu .row > div {
+                         padding: 0px 25px !important;
+                    }
+                    
+                    .responsive .category-wall2 .row > div:before {
+                         width: auto;
+                         top: 0;
+                         left: 0;
+                         right: 0;
+                         bottom: auto;
+                         height: 1px;
+                         display: block !important;
+                         background: url(../img/bg-megamenu.png) top left repeat-x;
+                    }
+                    
+                         .responsive .category-wall2 .row:first-child > div:first-child:before {
+                              display: none !important;
+                         }
+                         
+                         
+                    .responsive .category-wall2 .row > div .category {
+                         padding: 8px 25px 6px 25px;
+                    }
+     
+     /* @end */
+
+     /* @group Table */
+     
+     .responsive table.attribute,
+     .responsive table.list,
+     .responsive .wishlist-product table,
+     .responsive .wishlist-info table,
+     .responsive .compare-info,
+     .responsive .checkout-product table,
+     .responsive .table {
+          display: block;
+          overflow-x: auto;
+     }
+     
+          .responsive .checkout-cart .table {
+               display: table;
+               overflow: visible;
+          }
+     
+          .responsive table.attribute td,
+          .responsive table.list td,
+          .responsive .wishlist-product table td,
+          .responsive .wishlist-info table td,
+          .responsive .compare-info td,
+          .responsive .checkout-product table td,
+          .responsive .table td {
+               padding: 8px;
+          }
+          
+               .responsive table.attribute thead td,
+               .responsive table.list thead td,
+               .responsive .wishlist-product table thead td,
+               .responsive .wishlist-info table thead td,
+               .responsive .compare-info thead td,
+               .responsive .checkout-product table thead td,
+               .responsive .table thead td {
+                    padding: 8px;
+               }
+     
+     /* @end */
+     
+     
+     /* @group petshop2 columns */
+
+          .responsive .petshop2-columns .row > div {
+               padding: 15px 37px 17px 37px;
+          }
+     
+          .responsive .petshop2-columns .row > div:before {
+               content: '';
+               position: absolute;
+               left: 10px;
+               right: 10px;
+               height: 1px;
+               width: auto;
+               background: #e1e0da;
+               margin: 0px;
+          }
+     
+     /* @end */
+     
+     /* @group Box type 16 */
+          
+     .responsive .box-type-16 #main .product-list,
+     .responsive .box-type-16 #mfilter-content-container .product-grid {
+          padding-left: 0px;
+          padding-right: 0px;
+     }
+     
+          .responsive .box-type-16 #mfilter-content-container .product-grid > div {
+               padding: 0px;
+          }
+     
+     /* @end */
+
+     /* @group Petshop2 contact */
+     
+     .responsive .petshop2-contact {
+          margin-bottom: 30px;
+     }
+     
+          .responsive .petshop2-contact .row > div {
+               padding-bottom: 0px;
+               margin-top: -10px;
+          }
+          
+     /* @end */
+     
+     /* @group Carparts2 products */
+     
+     .responsive .carparts2-products {
+          padding-left: 0px;
+     }
+     
+     .responsive .carparts2-products-on-sale {
+          padding-top: 0px;
+     }
+     
+     .responsive .carparts2-products .product-grid {
+          padding: 0px !important;
+     }
+     
+     .responsive .carparts2-products .product-grid .product:before,
+     .responsive .carparts2-products .product-grid .product:after {
+          display: none !important;
+     }     
+     
+     /* @end */
+     
+     /* @group Box type 19 */
+          
+     .responsive .box-type-19 #main .box-content.products .product-grid {
+          padding-left: 9px;
+          padding-right: 9px;
+     }
+          
+          .responsive .box-type-19 .tab-content {
+               padding-left: 25px !important;
+               padding-right: 25px !important;
+          }
+               
+               .responsive .box-type-19 .filter-product .tab-content {
+                    padding-left: 0px !important;
+                    padding-right: 0px !important;
+               }
+          
+               .responsive .box-type-19 #main .tab-content .product-grid {
+                    padding-left: 9px;
+                    padding-right: 9px;
+               }
+
+          .responsive .box-type-19 #main .product-list {
+               padding: 0px;
+          }    
+          
+          .responsive .box-type-19 #main .center-column .product-grid {
+               padding-left: 9px;
+               padding-right: 9px;
+          } 
+     
+     /* @end */
+}

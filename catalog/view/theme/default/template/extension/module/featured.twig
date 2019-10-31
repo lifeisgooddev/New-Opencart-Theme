@@ -1,0 +1,175 @@
+<div class="row featured_text">
+<div class="col-md-4">
+  <h3  style="display:inline-block">{{ heading_title }}</h3>
+</div>
+<div class="col-md-8" style="text-align:right;font-weight:bold">
+  <a class="featured_right" id="decorative_btn" style=" margin-right:30px;">Decorative Plants</a>
+  <a class="featured_right underline" id="flower_btn">flowers</a>
+</div>
+</div>
+<div class="row hidden feature_view" id="decorative" style="margin-left:11%;margin-right:11%;">
+ {% for i in range(10,19) %}
+  
+  <div class="product-layout" style="width:20%;float:left;">
+    <div class="product-thumb transition">
+      <div class="image"><a href="{{ products[i].href }}"><img src="{{ products[i].thumb }}" alt="{{ products[i].name }}" title="{{ products[i].name }}" class="img-responsive" id="featured_image"/></a></div>
+      <div class="caption featured">
+        <p>{{ products[i].category_id }}</p>
+        <h4><a href="{{ products[i].href }}">{{ products[i].name }}</a></h4>
+        <span>{{ products[i].model }}</span>
+       
+       
+      </div>
+      
+    </div>
+  </div>
+  {% endfor %}
+  
+</div>
+<div class="row feature_view" id="flower" style="margin-left:11%;margin-right:11%;">
+ {% for i in range(0,9) %}
+  
+  <div class="product-layout" style="width:20%;float:left;">
+    <div class="product-thumb transition">
+      <div class="image"><a href="{{ products[i].href }}"><img src="{{ products[i].thumb }}" alt="{{ products[i].name }}" title="{{ products[i].name }}" class="img-responsive" id="featured_image"/></a></div>
+      <div class="caption featured">
+        <p>{{ products[i].category_id }}</p>
+        <h4><a href="{{ products[i].href }}">{{ products[i].name }}</a></h4>
+        <span>{{ products[i].model }}</span>
+       
+       
+      </div>
+      
+    </div>
+  </div>
+  {% endfor %}
+  
+</div>
+<div>
+<div class="row">
+  <div class="product-layout pic col-md-4 col-sm-4 col-xs-12" style="float:left;">
+    <div class="image"></div>
+    <div class="description">
+      <h4>Decorative</h4>
+      <div class="rect_div"></div>
+    </div>
+  </div>
+  <div class="product-layout pic1 col-md-4 col-sm-4 col-xs-12" style="float:left;">
+    <div class="image"></div>
+    <div class="description">
+      <h4>Hanging</h4>
+      <div class="rect_div"></div>
+    </div>
+  </div>
+  <div class="product-layout pic2 col-md-4 col-sm-4 col-xs-12" style="float:left;">
+    <div class="image"></div>
+    <div class="description">
+      <h4>Garden</h4>
+      <div class="rect_div"></div>
+    </div>
+  </div>
+</div>
+<style>
+.product-thumb {
+    border: 0px!important;
+}
+h3{
+  color:black!important;
+}
+
+.featured{
+  text-align:center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.featured>p{
+  color:rgb(137,209,0);
+}
+.featured>span{
+  color:rgb(0,0,0);
+  font-weight:bold;
+}
+#featured_image{
+  max-width:none;
+  width: 286px;
+
+
+}
+.caption{
+  min-height:0px!important;
+}
+.middle_img
+{
+  width:100%;
+}
+  .featured_text{
+    margin-left:13%;
+    margin-right:13%;
+  }
+  .featured_right{
+  display:inline-block;
+  font-weight:bold;
+  font-size:17px;
+  margin-top:24px;
+  color:black;
+  cursor:pointer;
+  }
+  .underline{
+  text-decoration:underline;
+  }
+  .product-layout{
+  padding-left:0px;
+  padding-right:0px;
+  }
+  .rect_div{
+    width:170px;
+    height:15px;
+    background-color:rgb(137,209,0);
+  }
+  .pic
+  {
+  background-image:url("image/catalog/demo/slider/389bb16e54ace20e0917a036b634d2c5@2x.png");
+      height: auto;
+    background-size: 100%;
+    background-repeat:no-repeat;
+  }
+  .pic1{
+    background-image:url("image/catalog/demo/slider/3c6271645e9adaaa92c9336cfbe4f1f1@2x.png");
+      height: auto;
+    background-size: 100%;
+    background-repeat:no-repeat;
+  }
+  .pic2{
+    background-image:url("image/catalog/demo/slider/824f825e0c85a4dd322ba860f1e6d375@2x.png");
+      height: auto;
+    background-size: 100%;
+    background-repeat:no-repeat;
+  }
+  .description{
+      margin-left: 15%;
+    margin-top: 59%;
+    padding-bottom:10%;
+  }
+  .description h4{
+  color:white;
+  }
+  .feature_view{
+    transition: 0.5s linear;
+  }
+</style>
+ <script>
+   $('#decorative_btn').click(function(){
+    $('#decorative').removeClass('hidden');
+    $('#flower').addClass('hidden');
+    $('#decorative_btn').addClass('underline');
+    $('#flower_btn').removeClass('underline');
+   });
+   $('#flower_btn').click(function(){
+    $('#flower').removeClass('hidden');
+    $('#decorative').addClass('hidden');
+    $('#flower_btn').addClass('underline');
+    $('#decorative_btn').removeClass('underline');
+   });
+  </script>
+  
+  
